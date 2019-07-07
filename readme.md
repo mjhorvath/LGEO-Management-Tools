@@ -1,6 +1,6 @@
 # Description
 
-This repository contains tools to assist in updating the LGEO parts library for LDraw and POV-Ray. This repository does not include the parts themselves.
+This repository contains tools to assist in managing and updating the LGEO parts library for LDraw and POV-Ray. This repository does not include the actual parts files.
 
 # Documentation
 
