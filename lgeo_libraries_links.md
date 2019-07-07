@@ -1,5 +1,5 @@
 # LGEO LIBRARIES
-* lg_lutz - Lutz Uhlmann, included with AIOI, [dead link](http://www.digitalbricks.org/lgeo.html, [working link](https://github.com/jncraton/lgeo)
+* lg_lutz - Lutz Uhlmann, included with AIOI, [dead link](http://www.digitalbricks.org/lgeo.html), [working link](https://github.com/jncraton/lgeo)
 * lg_lgeofix - Lars C. Hassing, [link](http://www.hassings.dk/l3/lgeofix.html)
 * lg_owen - Owen Burgoyne, included with AIOI, [link 1](https://forums.ldraw.org/thread-6127.html), [link 2](https://bricksafe.com/pages/C3POwen/lgeo)
 * lg_darats - Damien Roux, [link](http://www.eurobricks.com/forum/index.php?showtopic=108739)
