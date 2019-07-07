@@ -7,7 +7,7 @@
 * (fixed) In Owen's LGEO library the part "lg_756" is listed twice in "LGEO.xml".
 * In the spreadsheet I need to mark all remaining slope parts as sloped.
 * Need to replace all instances of "lg_2582_slope" with "lg_2582" within all legacy POV-Ray models. See: https://forums.ldraw.org/showthread.php?tid=16260&pid=27652&mode=linear
-* The LGEO files "lg_10197.inc", "lg_10288.inc" and "lg_85940.inc" all reference an object named "lg_tech_tube", but this object is missing from Damien's "lg_defs.inc". This file is present in Owen's library and the AIOI, however. In fact, these other "lg_defs.inc" files appear to be more recent than Damien's. Is there anything important in Damien's version of "lg_defs.inc" that needs to be merged with the others?
+* (fixed) The LGEO files "lg_10197.inc", "lg_10288.inc" and "lg_85940.inc" all reference an object named "lg_tech_tube", but this object is missing from Damien's "lg_defs.inc". This file is present in Owen's library and the AIOI, however. In fact, these other "lg_defs.inc" files appear to be more recent than Damien's. Is there anything important in Damien's version of "lg_defs.inc" that needs to be merged with the others?
 * As of 2019/07/01, the official AIOI seems to include Owen's parts but not Damien's parts.
 * As of 2019/07/01, the latest LGEO parts by Damien are missing "lg_2345p44.inc" and "lg_3794a.inc", even though they are listed in his "LGEO.xml".
 
