@@ -1,4 +1,4 @@
-#SPREADSHEETS
+# SPREADSHEETS
 1. To get a list of LDraw files, drop the file "dir_dat.bat" into your LDraw parts directory and execute it. This will generate a file called "dir_dat.txt". Copy "dir_dat.txt" to the same directory as "pad_parts_names.py" and rename it to "filenames_dat.txt".
 1. Execute the "pad_parts_names.bat" batch file. This will generate a new text file called "filenames_inc.txt".
 1. Open the spreadsheet "data_elements.xlsx".
@@ -11,13 +11,13 @@
 1. If a file represents a slope part, copy and paste the filename into the "SLOPE" column of the "Lists" worksheet.
 1. It is not necessary for each of these columns to be in alphabetical order, but it will make it easier to keep track of which file you have added to the spreadsheet.
 
-#JSON
+# JSON
 1. Copy the contents of the "JSON" column in the "Table" worksheet of "data_elements.xlsx" into the text file "data_elements.json".
 1. Copy the contents of the "JSON" column in the "Table" worksheet of "data_colors.xlsx" into the text file "data_colors.json".
 1. Delete the very last comma "," in "data_elements.json" and add an opening and closing square bracket "[" and "]".
 1. Delete the very last comma "," in "data_colors.json" and add an opening and closing square bracket "[" and "]".
 
-#OUTPUT
+# OUTPUT
 1. Execute the batch file "create_lg_elements_lst.bat". This will create a new text file called "lg_elements.lst".
 1. Execute the batch file "create_lg_colors_lst.bat". This will create a new text file called "lg_colors.lst".
 1. Execute the batch file "create_lgeo_xml.bat". This will create a new XML file called "LGEO.xml".
