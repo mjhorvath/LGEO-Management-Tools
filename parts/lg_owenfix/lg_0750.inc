@@ -2,18 +2,17 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0750: Hose Flexible End 1 x 1 x 0.67 with Tabs                           */
+/* lg_750: Hose Flexible End 1 x 1 x 0.67 with Tabs                            */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
-/* 2012-09-13 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
+/* 20120913 Owen Burgoyne                                                      */
 /*                                                                             */ 
 /*******************************************************************************/
-#ifdef(lg_0750)
+#ifdef(lg_750)
 #else
-#declare lg_0750 =
+#declare lg_750 =
 union {
   difference {
     union {
@@ -98,7 +97,7 @@ union {
   translate <0, 0, 2*-LG_PLATE_HEIGHT>
 }
 
-#declare lg_0750_clear =
+#declare lg_750_clear =
 merge {
   difference {
     merge {

@@ -2,16 +2,15 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0128: ~Technic Pneumatic Cylinder 2 x 2 Cap                              */
+/* lg_128: ~Technic Pneumatic Cylinder 2 x 2 Cap                               */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2014-01-16 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0128)
+#ifdef(lg_128)
 #else
 #local LG_HEIGHT_CYLINDER_BASE = 0;
 #local LG_HEIGHT_CYLINDER_CAP = 0.36;
@@ -19,7 +18,7 @@
 #local LG_RADIUS_CYLINDER_OUTER = 0.76;
 #local LG_RADIUS_CYLINDER_MID = 0.74;
 #local LG_RADIUS_CYLINDER_INNER = 0.70;
-#declare lg_0128 =
+#declare lg_128 =
 union {
   torus {
     LG_RADIUS_CYLINDER_INNER+LG_CORNER_SPACE,
@@ -125,7 +124,7 @@ union {
   translate <0, 0, -LG_HEIGHT_CYLINDER_CAP>
 }
 
-#declare lg_0128_clear =
+#declare lg_128_clear =
 merge {
   torus {
     LG_RADIUS_CYLINDER_INNER+LG_CORNER_SPACE,

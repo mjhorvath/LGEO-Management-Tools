@@ -2,12 +2,13 @@
 * lg_lutz - Lutz Uhlmann, included with AIOI, [dead link](http://www.digitalbricks.org/lgeo.html), [working link](https://github.com/jncraton/lgeo)
 * lg_lgeofix - Lars C. Hassing, [link](http://www.hassings.dk/l3/lgeofix.html)
 * lg_owen - Owen Burgoyne, included with AIOI, [link 1](https://forums.ldraw.org/thread-6127.html), [link 2](https://bricksafe.com/pages/C3POwen/lgeo)
-* lg_owen_fixed - Michael Horvath, contains some minor fixes, included within this GitHub repo
+* lg_owenfix - Michael Horvath, contains some minor fixes, included within this GitHub repo
 * lg_darats - Damien Roux, [link](http://www.eurobricks.com/forum/index.php?showtopic=108739)
 * stl_darats - Damien Roux, [link](http://www.eurobricks.com/forum/index.php?showtopic=108739)
+* lg_mjh - Michael Horvath, update the "lg_defs.inc" and "lg_color.inc" with additional colors and extra transforms required to support Damien's parts, included within this GitHub repo
 
 # NOTES
-* Order of installation: lutz < owen_fixed < darats
+* Order of installation: lutz < owenfix < darats < mjh
 * All part names beginning with between one and three number characters should be padded with zeroes until there are four numbers total. Some of Owen's parts seem to not do this for whatever reason.
 * Some parts have numbers and letters toward the end of their names. These letters and numbers don't count toward the four number character limit.
 * Some parts names begin with letters instead of numbers. These do not need to be padded either.

@@ -2,19 +2,18 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0577: Minifig Lightsaber Hilt                                            */
+/* lg_577: Minifig Lightsaber Hilt                                             */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2013-04-05 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0577)
+#ifdef(lg_577)
 #else
 #include "shapes.inc"
-#declare lg_0577 = 
+#declare lg_577 = 
 union {
   torus {
     LG_KNOB_INNER_RADIUS+LG_CORNER_SPACE,
@@ -171,7 +170,7 @@ union {
   }
 }
 
-#declare lg_0577_clear = 
+#declare lg_577_clear = 
 merge {
   torus {
     LG_KNOB_INNER_RADIUS+LG_CORNER_SPACE,

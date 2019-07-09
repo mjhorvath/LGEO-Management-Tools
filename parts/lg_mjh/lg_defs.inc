@@ -26,6 +26,8 @@
 /*            "lg_tech_hole" negative primtive                                 */
 /* 2014-02-10 Owen Burgoyne added LG_INNER_CORNER_SPACE measurement and        */
 /*            "lg_inverted_slope_knob" primitive                               */
+/* 2019-07-08 Michael Horvath added the missing transforms required to support */
+/*            Darats' new parts.                                               */
 /*                                                                             */
 /*******************************************************************************/
 #ifndef(lg_quality)
@@ -1181,7 +1183,7 @@ difference {
   }
 }
 
-	#declare L3LDrawToLgeo = transform { matrix <0,-LG_BRICK_WIDTH/20,0, 0,0,-LG_BRICK_HEIGHT/24, -LG_BRICK_WIDTH/20,0,0, 0,0,4*LG_BRICK_HEIGHT/24> }
-	#declare L3LgeoToLDraw = transform { matrix <0,0,-20/LG_BRICK_WIDTH, -20/LG_BRICK_WIDTH,0,0, 0,-24/LG_BRICK_HEIGHT,0, 0,0,0> }
+#declare L3LDrawToLgeo = transform { matrix <0,-LG_BRICK_WIDTH/20,0, 0,0,-LG_BRICK_HEIGHT/24, -LG_BRICK_WIDTH/20,0,0, 0,0,4*LG_BRICK_HEIGHT/24> }
+#declare L3LgeoToLDraw = transform { matrix <0,0,-20/LG_BRICK_WIDTH, -20/LG_BRICK_WIDTH,0,0, 0,-24/LG_BRICK_HEIGHT,0, 0,0,0> }
 
 #end

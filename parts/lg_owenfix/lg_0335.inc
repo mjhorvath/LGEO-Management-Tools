@@ -2,22 +2,21 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0335: ~Technic Pneumatic Cylinder 2 x 2 x 5                              */
+/* lg_335: ~Technic Pneumatic Cylinder 2 x 2 x 5                               */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2014-01-16 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0335)
+#ifdef(lg_335)
 #else
 #local LG_HEIGHT_CYLINDER_BASE = 0;
 #local LG_HEIGHT_CYLINDER_CAP = 4.88;
 #local LG_RADIUS_CYLINDER_OUTER = 0.76;
 #local LG_RADIUS_CYLINDER_INNER = 0.72;
-#declare lg_0335 =
+#declare lg_335 =
 union {
   torus {
     LG_RADIUS_CYLINDER_INNER+LG_CORNER_SPACE,
@@ -75,7 +74,7 @@ union {
   translate <0, 0, -LG_HEIGHT_CYLINDER_CAP>
 }
 
-#declare lg_0335_clear =
+#declare lg_335_clear =
 merge {
   torus {
     LG_RADIUS_CYLINDER_INNER+LG_CORNER_SPACE,

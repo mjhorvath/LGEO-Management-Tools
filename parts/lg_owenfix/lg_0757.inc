@@ -2,20 +2,19 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0757: ~Hose Flexible 12L Top 1 x 1 x 0.667 with Stud                     */
+/* lg_757: ~Hose Flexible 12L Top 1 x 1 x 0.667 with Stud                      */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2013-12-31 Owen Burgoyne                                                    */
 /* 2014-01-16 Owen Burgoyne updated with "lg_connect_tori" macro               */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0757)
+#ifdef(lg_757)
 #else
 #include "lg_macro.inc"
-#declare lg_0757 =
+#declare lg_757 =
 union {
   torus {
     LG_KNOB_INNER_RADIUS+LG_CORNER_SPACE,
@@ -121,7 +120,7 @@ union {
   }
 }
 
-#declare lg_0757_clear =
+#declare lg_757_clear =
 merge {
   torus {
     LG_KNOB_INNER_RADIUS+LG_CORNER_SPACE,

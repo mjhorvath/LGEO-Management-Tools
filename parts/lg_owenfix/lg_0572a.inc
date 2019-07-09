@@ -2,18 +2,17 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0572a: String End Stud                                                   */
+/* lg_572a: String End Stud                                                    */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2013-04-05 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0572a)
+#ifdef(lg_572a)
 #else
-#declare lg_0572a = 
+#declare lg_572a = 
 union {
   torus {
     LG_KNOB_RADIUS+LG_CORNER_SPACE,
@@ -64,7 +63,7 @@ union {
   translate <0, 0, -LG_PLATE_HEIGHT>
 }
 
-#declare lg_0572a_clear = 
+#declare lg_572a_clear = 
 merge {
   torus {
     LG_KNOB_RADIUS+LG_CORNER_SPACE,

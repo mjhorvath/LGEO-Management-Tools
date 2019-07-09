@@ -2,21 +2,20 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0209: Minifig Chain Link                                                 */
+/* lg_209: Minifig Chain Link                                                  */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2014-02-10 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0209)
+#ifdef(lg_209)
 #else
 #local LG_CHAIN_LENGTH = 0.36;
 #local LG_CHAIN_WIDTH = 0.32;
 #local LG_CHAIN_RADIUS = 0.06;
-#declare lg_0209 =
+#declare lg_209 =
 union {
   cylinder {
     <0, LG_CHAIN_WIDTH/2, 0>,
@@ -50,7 +49,7 @@ union {
   }
 }
 
-#declare lg_0209_clear =
+#declare lg_209_clear =
 merge {
   cylinder {
     <0, LG_CHAIN_WIDTH/2, 0>,

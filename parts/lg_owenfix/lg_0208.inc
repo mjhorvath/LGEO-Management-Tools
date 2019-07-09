@@ -2,21 +2,20 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0208: Minifig Chain Link End                                             */
+/* lg_208: Minifig Chain Link End                                              */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2014-02-10 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0208)
+#ifdef(lg_208)
 #else
 #local LG_CHAIN_LENGTH = 0.58;
 #local LG_CHAIN_WIDTH = 0.32;
 #local LG_CHAIN_RADIUS = 0.06;
-#declare lg_0208 =
+#declare lg_208 =
 union {
   torus {
     LG_KNOB_RADIUS+LG_CORNER_SPACE,
@@ -105,7 +104,7 @@ union {
   translate <0, 0, -LG_PLATE_HEIGHT>
 }
 
-#declare lg_0208_clear =
+#declare lg_208_clear =
 merge {
   torus {
     LG_KNOB_RADIUS+LG_CORNER_SPACE,

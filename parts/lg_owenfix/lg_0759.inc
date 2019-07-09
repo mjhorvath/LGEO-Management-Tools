@@ -2,18 +2,17 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0759: ~Hose Flexible 12L End Segment                                     */
+/* lg_759: ~Hose Flexible 12L End Segment                                      */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2014-01-16 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0759)
+#ifdef(lg_759)
 #else
-#declare lg_0759 =
+#declare lg_759 =
 union {
   torus {
     LG_KNOB_RADIUS-LG_CORNER_SPACE,
@@ -64,7 +63,7 @@ union {
   }
 }
 
-#declare lg_0759_clear =
+#declare lg_759_clear =
 merge {
   torus {
     LG_KNOB_RADIUS-LG_CORNER_SPACE,

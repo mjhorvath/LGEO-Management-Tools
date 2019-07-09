@@ -2,19 +2,18 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0752: Hose Flexible End 1 x 1 x 0.667 without Tabs                       */
+/* lg_752: Hose Flexible End 1 x 1 x 0.667 without Tabs                        */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2013-06-28 Owen Burgoyne                                                    */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0752)
+#ifdef(lg_752)
 #else
 #include "shapes.inc"
-#declare lg_0752 = 
+#declare lg_752 = 
 union {
   torus {
     LG_CYLINDER_RADIUS-LG_CORNER_SPACE,
@@ -67,7 +66,7 @@ union {
   }
 }
 
-#declare lg_0752_clear = 
+#declare lg_752_clear = 
 merge {
   torus {
     LG_CYLINDER_RADIUS-LG_CORNER_SPACE,

@@ -2,21 +2,20 @@
 /*                                                                             */
 /* LGEO Libray Include File     (C) lgeo@digitalbricks.org (Lutz Uhlmann)      */
 /*                                                                             */
-/* lg_0336: ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 5.5L                  */
+/* lg_337: ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 4L                     */
 /*                                                                             */
 /* This file is in no way related to the LEGO(tm) Group.                       */
 /* It is provided for private non-commercial use only.                         */
 /*                                                                             */
 /* 2013-01-16 Owen Burgoyne                                                    */
 /* 2014-01-16 Owen Burgoyne updated with "lg_tech_hole_group" macro            */
-/* 2019-07-01 Michael Horvath padded part name with zero                       */
 /*                                                                             */
 /*******************************************************************************/
-#ifdef(lg_0336)
+#ifdef(lg_337)
 #else
 #include "lg_macro.inc"
-#local LG_HEIGHT_AXLE_BASE = -5.84;
-#declare lg_0336 =
+#local LG_HEIGHT_AXLE_BASE = -4.24;
+#declare lg_337 =
 union {
   torus {
     LG_BEAM_WIDTH/2-LG_CORNER_SPACE,
@@ -93,7 +92,7 @@ union {
   }
 }
 
-#declare lg_0336_clear =
+#declare lg_337_clear =
 merge {
   torus {
     LG_BEAM_WIDTH/2-LG_CORNER_SPACE,
