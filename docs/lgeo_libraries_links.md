@@ -5,7 +5,7 @@
 * lg_owenfix - Michael Horvath, contains some minor fixes, included within this GitHub repo
 * lg_darats - Damien Roux, [link](http://www.eurobricks.com/forum/index.php?showtopic=108739)
 * stl_darats - Damien Roux, [link](http://www.eurobricks.com/forum/index.php?showtopic=108739)
-* lg_mjh - Michael Horvath, update the "lg_defs.inc" and "lg_color.inc" with additional colors and extra transforms required to support Damien's parts, included within this GitHub repo
+* lg_mjh - Michael Horvath, update the "lg_defs.inc" with additional transforms required to support Damien's parts, included within this GitHub repo
 
 # NOTES
 * Order of installation: lutz < owenfix < darats < mjh
