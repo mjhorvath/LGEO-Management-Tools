@@ -1,4 +1,11 @@
-# -*- coding: utf-8 -*-
+# LGEO Management Tools by Michael Horvath
+# 
+# To the extent possible under law, the person who associated CC0 with
+# LGEO Management Tools has waived all copyright and related or neighboring 
+# rights to LGEO Management Tools.
+# 
+# You should have received a copy of the CC0 legalcode along with this
+# work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 import json
 import xml.etree.ElementTree as ET
@@ -89,7 +96,7 @@ with open("data_elements.json") as json_file:
 			file_ldr = p["ldraw"]
 			file_inc = p["lgeo"]
 			part_slope = p["slope"]
-			name_inc = file_inc.strip(".inc")
+			name_inc = file_inc.replace(".inc", "")
 			name_clear = name_inc + "_clear"	# apparently every LGEO part has a clear version
 			name_slope = name_inc + "_slope"
 			elm1 = ET.SubElement(elm0, "Element")
@@ -110,6 +117,6 @@ indent(root)
 text = ET.tostring(root).replace("&amp;&amp;", "&")
 
 # Need to ask Travis whether UTF-8 encoding is the correct encoding for "LGEO.xml".
-with open("LGEO.xml", "wb") as f:
+with open("LGEO.xml", "w") as f:
     f.write(head.encode("utf-8"))
     f.write(text.encode("utf-8"))

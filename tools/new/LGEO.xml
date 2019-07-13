@@ -36,7 +36,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>3</LDrawNumber>
-			<POVName>lg_cyan</POVName>
+			<POVName>lg_dark_turquoise</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -56,12 +56,12 @@
 		</Color>
 		<Color>
 			<LDrawNumber>7</LDrawNumber>
-			<POVName>lg_grey</POVName>
+			<POVName>lg_light_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>8</LDrawNumber>
-			<POVName>lg_dark_grey</POVName>
+			<POVName>lg_dark_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -76,7 +76,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>11</LDrawNumber>
-			<POVName>lg_turquoise</POVName>
+			<POVName>lg_light_turquoise</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -97,6 +97,11 @@
 		<Color>
 			<LDrawNumber>15</LDrawNumber>
 			<POVName>lg_white</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>16</LDrawNumber>
+			<POVName>lg_main_colour</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -131,7 +136,12 @@
 		</Color>
 		<Color>
 			<LDrawNumber>23</LDrawNumber>
-			<POVName>lg_violet_blue</POVName>
+			<POVName>lg_dark_blue_violet</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>24</LDrawNumber>
+			<POVName>lg_edge_colour</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -156,7 +166,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>29</LDrawNumber>
-			<POVName>lg_light_purple</POVName>
+			<POVName>lg_bright_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -171,87 +181,122 @@
 		</Color>
 		<Color>
 			<LDrawNumber>32</LDrawNumber>
-			<POVName>lg_black_ir</POVName>
+			<POVName>lg_trans_black_ir_lens</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>33</LDrawNumber>
-			<POVName>lg_clear_blue</POVName>
+			<POVName>lg_trans_dark_blue</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>34</LDrawNumber>
-			<POVName>lg_clear_green</POVName>
+			<POVName>lg_trans_green</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>35</LDrawNumber>
-			<POVName>lg_clear_bright_green</POVName>
+			<POVName>lg_trans_bright_green</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>36</LDrawNumber>
-			<POVName>lg_clear_red</POVName>
+			<POVName>lg_trans_red</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>37</LDrawNumber>
-			<POVName>lg_clear_pink</POVName>
+			<POVName>lg_trans_dark_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>38</LDrawNumber>
-			<POVName>lg_clear_neon_orange</POVName>
+			<POVName>lg_trans_neon_orange</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>39</LDrawNumber>
+			<POVName>lg_trans_very_light_blue</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>40</LDrawNumber>
-			<POVName>lg_clear_brown</POVName>
+			<POVName>lg_trans_black</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>41</LDrawNumber>
-			<POVName>lg_clear_cyan</POVName>
+			<POVName>lg_trans_medium_blue</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>42</LDrawNumber>
-			<POVName>lg_clear_neon_yellow</POVName>
+			<POVName>lg_trans_neon_green</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>43</LDrawNumber>
-			<POVName>lg_clear_light_blue</POVName>
+			<POVName>lg_trans_light_blue</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>44</LDrawNumber>
-			<POVName>lg_clear_light_purple</POVName>
+			<POVName>lg_trans_light_purple</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>45</LDrawNumber>
+			<POVName>lg_trans_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>46</LDrawNumber>
-			<POVName>lg_clear_yellow</POVName>
+			<POVName>lg_trans_yellow</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>47</LDrawNumber>
-			<POVName>lg_clear</POVName>
+			<POVName>lg_trans_clear</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>52</LDrawNumber>
-			<POVName>lg_clear_violet</POVName>
+			<POVName>lg_trans_purple</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>54</LDrawNumber>
-			<POVName>lg_clear_neon_yellow</POVName>
+			<POVName>lg_trans_neon_yellow</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>57</LDrawNumber>
-			<POVName>lg_clear_neon_orange</POVName>
+			<POVName>lg_trans_orange</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>60</LDrawNumber>
+			<POVName>lg_chrome_antique_brass</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>61</LDrawNumber>
+			<POVName>lg_chrome_blue</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>62</LDrawNumber>
+			<POVName>lg_chrome_green</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>63</LDrawNumber>
+			<POVName>lg_chrome_pink</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>64</LDrawNumber>
+			<POVName>lg_chrome_black</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -261,12 +306,12 @@
 		</Color>
 		<Color>
 			<LDrawNumber>66</LDrawNumber>
-			<POVName>lg_rubber_clear_yellow</POVName>
+			<POVName>lg_rubber_trans_yellow</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>67</LDrawNumber>
-			<POVName>lg_rubber_clear</POVName>
+			<POVName>lg_rubber_trans_clear</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -276,7 +321,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>69</LDrawNumber>
-			<POVName>lg_bright_purple</POVName>
+			<POVName>lg_light_purple</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -286,12 +331,12 @@
 		</Color>
 		<Color>
 			<LDrawNumber>71</LDrawNumber>
-			<POVName>lg_bluish_grey</POVName>
+			<POVName>lg_light_bluish_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>72</LDrawNumber>
-			<POVName>lg_dark_bluish_grey</POVName>
+			<POVName>lg_dark_bluish_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -306,7 +351,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>77</LDrawNumber>
-			<POVName>lg_paradisa_pink</POVName>
+			<POVName>lg_light_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -325,8 +370,18 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>81</LDrawNumber>
+			<POVName>lg_metallic_green</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>82</LDrawNumber>
 			<POVName>lg_metallic_gold</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>83</LDrawNumber>
+			<POVName>lg_metallic_black</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -345,8 +400,13 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>87</LDrawNumber>
+			<POVName>lg_metallic_dark_gray</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>89</LDrawNumber>
-			<POVName>lg_royal_blue</POVName>
+			<POVName>lg_blue_violet</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -360,6 +420,11 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>110</LDrawNumber>
+			<POVName>lg_violet</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>112</LDrawNumber>
 			<POVName>lg_medium_violet</POVName>
 			<Dependency>LGColors</Dependency>
@@ -370,18 +435,38 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>118</LDrawNumber>
+			<POVName>lg_aqua</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>120</LDrawNumber>
+			<POVName>lg_light_lime</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>125</LDrawNumber>
+			<POVName>lg_light_orange</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>128</LDrawNumber>
+			<POVName>lg_dark_nougat</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>134</LDrawNumber>
-			<POVName>lg_pearl_copper</POVName>
+			<POVName>lg_copper</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>135</LDrawNumber>
-			<POVName>lg_pearl_grey</POVName>
+			<POVName>lg_pearl_light_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>137</LDrawNumber>
-			<POVName>lg_pearl_blue</POVName>
+			<POVName>lg_metal_blue</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -391,12 +476,22 @@
 		</Color>
 		<Color>
 			<LDrawNumber>148</LDrawNumber>
-			<POVName>lg_pearl_dark_grey</POVName>
+			<POVName>lg_pearl_dark_gray</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>150</LDrawNumber>
+			<POVName>lg_pearl_very_light_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>151</LDrawNumber>
-			<POVName>lg_very_light_bluish_grey</POVName>
+			<POVName>lg_very_light_bluish_gray</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>178</LDrawNumber>
+			<POVName>lg_flat_dark_gold</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -407,6 +502,11 @@
 		<Color>
 			<LDrawNumber>183</LDrawNumber>
 			<POVName>lg_pearl_white</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>189</LDrawNumber>
+			<POVName>lg_reddish_gold</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -425,13 +525,33 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>218</LDrawNumber>
+			<POVName>lg_medium_purple</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>219</LDrawNumber>
+			<POVName>lg_medium_violet_alt</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>226</LDrawNumber>
 			<POVName>lg_bright_light_yellow</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>231</LDrawNumber>
+			<POVName>lg_trans_bright_light_orange</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>232</LDrawNumber>
 			<POVName>lg_sky_blue</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>234</LDrawNumber>
+			<POVName>lg_trans_fire_yellow</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -450,18 +570,38 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>285</LDrawNumber>
+			<POVName>lg_trans_light_green</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>288</LDrawNumber>
 			<POVName>lg_dark_green</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>293</LDrawNumber>
+			<POVName>lg_trans_light_blue_violet</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>294</LDrawNumber>
-			<POVName>lg_glow_in_dark_clear</POVName>
+			<POVName>lg_glow_in_dark_trans</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>295</LDrawNumber>
+			<POVName>lg_flamingo_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>297</LDrawNumber>
 			<POVName>lg_pearl_gold</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>300</LDrawNumber>
+			<POVName>lg_metallic_copper</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -501,7 +641,12 @@
 		</Color>
 		<Color>
 			<LDrawNumber>326</LDrawNumber>
-			<POVName>lg_spring_yellowish_green</POVName>
+			<POVName>lg_yellowish_green</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>329</LDrawNumber>
+			<POVName>lg_glow_in_dark_white</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -517,6 +662,16 @@
 		<Color>
 			<LDrawNumber>335</LDrawNumber>
 			<POVName>lg_sand_red</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>350</LDrawNumber>
+			<POVName>lg_rubber_orange</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
+			<LDrawNumber>351</LDrawNumber>
+			<POVName>lg_medium_dark_pink</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -546,7 +701,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>383</LDrawNumber>
-			<POVName>lg_chrome</POVName>
+			<POVName>lg_chrome_silver</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -566,7 +721,7 @@
 		</Color>
 		<Color>
 			<LDrawNumber>462</LDrawNumber>
-			<POVName>lg_light_orange</POVName>
+			<POVName>lg_medium_orange</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -590,13 +745,18 @@
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
+			<LDrawNumber>495</LDrawNumber>
+			<POVName>lg_electric_contact_copper</POVName>
+			<Dependency>LGColors</Dependency>
+		</Color>
+		<Color>
 			<LDrawNumber>496</LDrawNumber>
 			<POVName>lg_rubber_light_bluish_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
 			<LDrawNumber>503</LDrawNumber>
-			<POVName>lg_very_light_grey </POVName>
+			<POVName>lg_very_light_gray</POVName>
 			<Dependency>LGColors</Dependency>
 		</Color>
 		<Color>
@@ -625,44 +785,35 @@
 	</Matrices>
 	<Elements>
 		<Element>
-			<LDrawFilename>0902.dat</LDrawFilename>
-			<POVName>lg_0902</POVName>
-			<POVName Alternate="Clear">lg_0902_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0902.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
 			<LDrawFilename>1.dat</LDrawFilename>
-			<POVName>lg_0001</POVName>
-			<POVName Alternate="Clear">lg_0001_clear</POVName>
+			<POVName>lg_1</POVName>
+			<POVName Alternate="Clear">lg_1_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0001.inc</POVFilename>
+			<POVFilename>lg_1.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>10.dat</LDrawFilename>
-			<POVName>lg_0010</POVName>
-			<POVName Alternate="Clear">lg_0010_clear</POVName>
+			<POVName>lg_10</POVName>
+			<POVName Alternate="Clear">lg_10_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0010.inc</POVFilename>
+			<POVFilename>lg_10.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>100.dat</LDrawFilename>
-			<POVName>lg_0100</POVName>
-			<POVName Alternate="Clear">lg_0100_clear</POVName>
-			<Texture Alternate="Slope">lg_0100_slope</Texture>
+			<POVName>lg_100</POVName>
+			<POVName Alternate="Clear">lg_100_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0100.inc</POVFilename>
+			<POVFilename>lg_100.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>101.dat</LDrawFilename>
-			<POVName>lg_0101</POVName>
-			<POVName Alternate="Clear">lg_0101_clear</POVName>
+			<POVName>lg_101</POVName>
+			<POVName Alternate="Clear">lg_101_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0101.inc</POVFilename>
+			<POVFilename>lg_101.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -707,26 +858,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>104.dat</LDrawFilename>
-			<POVName>lg_0104</POVName>
-			<POVName Alternate="Clear">lg_0104_clear</POVName>
+			<POVName>lg_104</POVName>
+			<POVName Alternate="Clear">lg_104_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0104.inc</POVFilename>
+			<POVFilename>lg_104.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>105.dat</LDrawFilename>
-			<POVName>lg_0105</POVName>
-			<POVName Alternate="Clear">lg_0105_clear</POVName>
+			<POVName>lg_105</POVName>
+			<POVName Alternate="Clear">lg_105_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0105.inc</POVFilename>
+			<POVFilename>lg_105.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>11.dat</LDrawFilename>
-			<POVName>lg_0011</POVName>
-			<POVName Alternate="Clear">lg_0011_clear</POVName>
+			<POVName>lg_11</POVName>
+			<POVName Alternate="Clear">lg_11_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0011.inc</POVFilename>
+			<POVFilename>lg_11.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -739,10 +890,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>112.dat</LDrawFilename>
-			<POVName>lg_0112</POVName>
-			<POVName Alternate="Clear">lg_0112_clear</POVName>
+			<POVName>lg_112</POVName>
+			<POVName Alternate="Clear">lg_112_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0112.inc</POVFilename>
+			<POVFilename>lg_112.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -851,66 +1002,66 @@
 		</Element>
 		<Element>
 			<LDrawFilename>12.dat</LDrawFilename>
-			<POVName>lg_0012</POVName>
-			<POVName Alternate="Clear">lg_0012_clear</POVName>
+			<POVName>lg_12</POVName>
+			<POVName Alternate="Clear">lg_12_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0012.inc</POVFilename>
+			<POVFilename>lg_12.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>120.dat</LDrawFilename>
-			<POVName>lg_0120</POVName>
-			<POVName Alternate="Clear">lg_0120_clear</POVName>
+			<POVName>lg_120</POVName>
+			<POVName Alternate="Clear">lg_120_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0120.inc</POVFilename>
+			<POVFilename>lg_120.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>121.dat</LDrawFilename>
-			<POVName>lg_0121</POVName>
-			<POVName Alternate="Clear">lg_0121_clear</POVName>
+			<POVName>lg_121</POVName>
+			<POVName Alternate="Clear">lg_121_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0121.inc</POVFilename>
+			<POVFilename>lg_121.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>122.dat</LDrawFilename>
-			<POVName>lg_0122</POVName>
-			<POVName Alternate="Clear">lg_0122_clear</POVName>
+			<POVName>lg_122</POVName>
+			<POVName Alternate="Clear">lg_122_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0122.inc</POVFilename>
+			<POVFilename>lg_122.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>122c01.dat</LDrawFilename>
-			<POVName>lg_0122c01</POVName>
-			<POVName Alternate="Clear">lg_0122c01_clear</POVName>
+			<POVName>lg_122c01</POVName>
+			<POVName Alternate="Clear">lg_122c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0122c01.inc</POVFilename>
+			<POVFilename>lg_122c01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>122c02.dat</LDrawFilename>
-			<POVName>lg_0122c02</POVName>
-			<POVName Alternate="Clear">lg_0122c02_clear</POVName>
+			<POVName>lg_122c02</POVName>
+			<POVName Alternate="Clear">lg_122c02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0122c02.inc</POVFilename>
+			<POVFilename>lg_122c02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>123.dat</LDrawFilename>
-			<POVName>lg_0123</POVName>
-			<POVName Alternate="Clear">lg_0123_clear</POVName>
+			<POVName>lg_123</POVName>
+			<POVName Alternate="Clear">lg_123_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0123.inc</POVFilename>
+			<POVFilename>lg_123.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>128.dat</LDrawFilename>
-			<POVName>lg_0128</POVName>
-			<POVName Alternate="Clear">lg_0128_clear</POVName>
+			<POVName>lg_128</POVName>
+			<POVName Alternate="Clear">lg_128_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0128.inc</POVFilename>
+			<POVFilename>lg_128.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -923,26 +1074,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>13.dat</LDrawFilename>
-			<POVName>lg_0013</POVName>
-			<POVName Alternate="Clear">lg_0013_clear</POVName>
+			<POVName>lg_13</POVName>
+			<POVName Alternate="Clear">lg_13_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0013.inc</POVFilename>
+			<POVFilename>lg_13.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>13251.dat</LDrawFilename>
-			<POVName>lg_0132</POVName>
-			<POVName Alternate="Clear">lg_0132_clear</POVName>
+			<LDrawFilename>132.dat</LDrawFilename>
+			<POVName>lg_132</POVName>
+			<POVName Alternate="Clear">lg_132_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0132.inc</POVFilename>
+			<POVFilename>lg_132.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>134.dat</LDrawFilename>
-			<POVName>lg_0134</POVName>
-			<POVName Alternate="Clear">lg_0134_clear</POVName>
+			<POVName>lg_134</POVName>
+			<POVName Alternate="Clear">lg_134_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0134.inc</POVFilename>
+			<POVFilename>lg_134.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -963,58 +1114,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>138.dat</LDrawFilename>
-			<POVName>lg_0138</POVName>
-			<POVName Alternate="Clear">lg_0138_clear</POVName>
+			<POVName>lg_138</POVName>
+			<POVName Alternate="Clear">lg_138_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0138.inc</POVFilename>
+			<POVFilename>lg_138.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>14.dat</LDrawFilename>
-			<POVName>lg_0014</POVName>
-			<POVName Alternate="Clear">lg_0014_clear</POVName>
+			<POVName>lg_14</POVName>
+			<POVName Alternate="Clear">lg_14_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0014.inc</POVFilename>
+			<POVFilename>lg_14.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>140.dat</LDrawFilename>
-			<POVName>lg_0140</POVName>
-			<POVName Alternate="Clear">lg_0140_clear</POVName>
+			<POVName>lg_140</POVName>
+			<POVName Alternate="Clear">lg_140_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0140.inc</POVFilename>
+			<POVFilename>lg_140.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>141.dat</LDrawFilename>
-			<POVName>lg_0141</POVName>
-			<POVName Alternate="Clear">lg_0141_clear</POVName>
+			<POVName>lg_141</POVName>
+			<POVName Alternate="Clear">lg_141_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0141.inc</POVFilename>
+			<POVFilename>lg_141.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>142.dat</LDrawFilename>
-			<POVName>lg_0142</POVName>
-			<POVName Alternate="Clear">lg_0142_clear</POVName>
+			<POVName>lg_142</POVName>
+			<POVName Alternate="Clear">lg_142_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0142.inc</POVFilename>
+			<POVFilename>lg_142.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>143.dat</LDrawFilename>
-			<POVName>lg_0143</POVName>
-			<POVName Alternate="Clear">lg_0143_clear</POVName>
+			<POVName>lg_143</POVName>
+			<POVName Alternate="Clear">lg_143_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0143.inc</POVFilename>
+			<POVFilename>lg_143.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>144.dat</LDrawFilename>
-			<POVName>lg_0144</POVName>
-			<POVName Alternate="Clear">lg_0144_clear</POVName>
+			<POVName>lg_144</POVName>
+			<POVName Alternate="Clear">lg_144_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0144.inc</POVFilename>
+			<POVFilename>lg_144.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1027,18 +1178,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>145.dat</LDrawFilename>
-			<POVName>lg_0145</POVName>
-			<POVName Alternate="Clear">lg_0145_clear</POVName>
+			<POVName>lg_145</POVName>
+			<POVName Alternate="Clear">lg_145_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0145.inc</POVFilename>
+			<POVFilename>lg_145.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>146.dat</LDrawFilename>
-			<POVName>lg_0146</POVName>
-			<POVName Alternate="Clear">lg_0146_clear</POVName>
+			<POVName>lg_146</POVName>
+			<POVName Alternate="Clear">lg_146_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0146.inc</POVFilename>
+			<POVFilename>lg_146.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1091,26 +1242,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>148.dat</LDrawFilename>
-			<POVName>lg_0148</POVName>
-			<POVName Alternate="Clear">lg_0148_clear</POVName>
+			<POVName>lg_148</POVName>
+			<POVName Alternate="Clear">lg_148_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0148.inc</POVFilename>
+			<POVFilename>lg_148.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>15.dat</LDrawFilename>
-			<POVName>lg_0015</POVName>
-			<POVName Alternate="Clear">lg_0015_clear</POVName>
+			<POVName>lg_15</POVName>
+			<POVName Alternate="Clear">lg_15_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0015.inc</POVFilename>
+			<POVFilename>lg_15.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>150.dat</LDrawFilename>
-			<POVName>lg_0150</POVName>
-			<POVName Alternate="Clear">lg_0150_clear</POVName>
+			<POVName>lg_150</POVName>
+			<POVName Alternate="Clear">lg_150_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0150.inc</POVFilename>
+			<POVFilename>lg_150.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1139,10 +1290,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>152.dat</LDrawFilename>
-			<POVName>lg_0152</POVName>
-			<POVName Alternate="Clear">lg_0152_clear</POVName>
+			<POVName>lg_152</POVName>
+			<POVName Alternate="Clear">lg_152_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0152.inc</POVFilename>
+			<POVFilename>lg_152.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1227,10 +1378,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>157.dat</LDrawFilename>
-			<POVName>lg_0157</POVName>
-			<POVName Alternate="Clear">lg_0157_clear</POVName>
+			<POVName>lg_157</POVName>
+			<POVName Alternate="Clear">lg_157_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0157.inc</POVFilename>
+			<POVFilename>lg_157.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1243,42 +1394,42 @@
 		</Element>
 		<Element>
 			<LDrawFilename>158.dat</LDrawFilename>
-			<POVName>lg_0158</POVName>
-			<POVName Alternate="Clear">lg_0158_clear</POVName>
+			<POVName>lg_158</POVName>
+			<POVName Alternate="Clear">lg_158_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0158.inc</POVFilename>
+			<POVFilename>lg_158.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>159.dat</LDrawFilename>
-			<POVName>lg_0159</POVName>
-			<POVName Alternate="Clear">lg_0159_clear</POVName>
+			<POVName>lg_159</POVName>
+			<POVName Alternate="Clear">lg_159_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0159.inc</POVFilename>
+			<POVFilename>lg_159.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>16.dat</LDrawFilename>
-			<POVName>lg_0016</POVName>
-			<POVName Alternate="Clear">lg_0016_clear</POVName>
+			<POVName>lg_16</POVName>
+			<POVName Alternate="Clear">lg_16_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0016.inc</POVFilename>
+			<POVFilename>lg_16.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>161.dat</LDrawFilename>
-			<POVName>lg_0161</POVName>
-			<POVName Alternate="Clear">lg_0161_clear</POVName>
+			<POVName>lg_161</POVName>
+			<POVName Alternate="Clear">lg_161_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0161.inc</POVFilename>
+			<POVFilename>lg_161.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>163.dat</LDrawFilename>
-			<POVName>lg_0163</POVName>
-			<POVName Alternate="Clear">lg_0163_clear</POVName>
+			<POVName>lg_163</POVName>
+			<POVName Alternate="Clear">lg_163_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0163.inc</POVFilename>
+			<POVFilename>lg_163.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1290,68 +1441,51 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>168275a.dat</LDrawFilename>
-			<POVName>lg_168275a</POVName>
-			<POVName Alternate="Clear">lg_168275a_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_168275a.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
-			<LDrawFilename>168295a.dat</LDrawFilename>
-			<POVName>lg_168295a</POVName>
-			<POVName Alternate="Clear">lg_168295a_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_168295a.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
 			<LDrawFilename>174.dat</LDrawFilename>
-			<POVName>lg_0174</POVName>
-			<POVName Alternate="Clear">lg_0174_clear</POVName>
+			<POVName>lg_174</POVName>
+			<POVName Alternate="Clear">lg_174_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0174.inc</POVFilename>
+			<POVFilename>lg_174.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>177.dat</LDrawFilename>
-			<POVName>lg_0177</POVName>
-			<POVName Alternate="Clear">lg_0177_clear</POVName>
+			<POVName>lg_177</POVName>
+			<POVName Alternate="Clear">lg_177_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0177.inc</POVFilename>
+			<POVFilename>lg_177.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>178.dat</LDrawFilename>
-			<POVName>lg_0178</POVName>
-			<POVName Alternate="Clear">lg_0178_clear</POVName>
+			<POVName>lg_178</POVName>
+			<POVName Alternate="Clear">lg_178_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0178.inc</POVFilename>
+			<POVFilename>lg_178.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>179.dat</LDrawFilename>
-			<POVName>lg_0179</POVName>
-			<POVName Alternate="Clear">lg_0179_clear</POVName>
+			<POVName>lg_179</POVName>
+			<POVName Alternate="Clear">lg_179_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0179.inc</POVFilename>
+			<POVFilename>lg_179.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>18.dat</LDrawFilename>
-			<POVName>lg_0018</POVName>
-			<POVName Alternate="Clear">lg_0018_clear</POVName>
+			<POVName>lg_18</POVName>
+			<POVName Alternate="Clear">lg_18_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0018.inc</POVFilename>
+			<POVFilename>lg_18.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>180.dat</LDrawFilename>
-			<POVName>lg_0180</POVName>
-			<POVName Alternate="Clear">lg_0180_clear</POVName>
-			<Texture Alternate="Slope">lg_0180_slope</Texture>
+			<POVName>lg_180</POVName>
+			<POVName Alternate="Clear">lg_180_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0180.inc</POVFilename>
+			<POVFilename>lg_180.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1435,52 +1569,35 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>192425a.dat</LDrawFilename>
-			<POVName>lg_192425a</POVName>
-			<POVName Alternate="Clear">lg_192425a_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_192425a.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
-			<LDrawFilename>192425b.dat</LDrawFilename>
-			<POVName>lg_192425b</POVName>
-			<POVName Alternate="Clear">lg_192425b_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_192425b.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
 			<LDrawFilename>198.dat</LDrawFilename>
-			<POVName>lg_0198</POVName>
-			<POVName Alternate="Clear">lg_0198_clear</POVName>
+			<POVName>lg_198</POVName>
+			<POVName Alternate="Clear">lg_198_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0198.inc</POVFilename>
+			<POVFilename>lg_198.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>199.dat</LDrawFilename>
-			<POVName>lg_0199</POVName>
-			<POVName Alternate="Clear">lg_0199_clear</POVName>
-			<Texture Alternate="Slope">lg_0199_slope</Texture>
+			<POVName>lg_199</POVName>
+			<POVName Alternate="Clear">lg_199_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0199.inc</POVFilename>
+			<POVFilename>lg_199.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>2.dat</LDrawFilename>
-			<POVName>lg_0002</POVName>
-			<POVName Alternate="Clear">lg_0002_clear</POVName>
+			<POVName>lg_2</POVName>
+			<POVName Alternate="Clear">lg_2_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0002.inc</POVFilename>
+			<POVFilename>lg_2.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>20.dat</LDrawFilename>
-			<POVName>lg_0020</POVName>
-			<POVName Alternate="Clear">lg_0020_clear</POVName>
+			<POVName>lg_20</POVName>
+			<POVName Alternate="Clear">lg_20_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0020.inc</POVFilename>
+			<POVFilename>lg_20.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1493,58 +1610,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>205.dat</LDrawFilename>
-			<POVName>lg_0205</POVName>
-			<POVName Alternate="Clear">lg_0205_clear</POVName>
+			<POVName>lg_205</POVName>
+			<POVName Alternate="Clear">lg_205_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0205.inc</POVFilename>
+			<POVFilename>lg_205.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>206.dat</LDrawFilename>
-			<POVName>lg_0206</POVName>
-			<POVName Alternate="Clear">lg_0206_clear</POVName>
+			<POVName>lg_206</POVName>
+			<POVName Alternate="Clear">lg_206_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0206.inc</POVFilename>
+			<POVFilename>lg_206.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>208.dat</LDrawFilename>
-			<POVName>lg_0208</POVName>
-			<POVName Alternate="Clear">lg_0208_clear</POVName>
+			<POVName>lg_208</POVName>
+			<POVName Alternate="Clear">lg_208_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0208.inc</POVFilename>
+			<POVFilename>lg_208.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>209.dat</LDrawFilename>
-			<POVName>lg_0209</POVName>
-			<POVName Alternate="Clear">lg_0209_clear</POVName>
+			<POVName>lg_209</POVName>
+			<POVName Alternate="Clear">lg_209_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0209.inc</POVFilename>
+			<POVFilename>lg_209.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>21.dat</LDrawFilename>
-			<POVName>lg_0021</POVName>
-			<POVName Alternate="Clear">lg_0021_clear</POVName>
+			<POVName>lg_21</POVName>
+			<POVName Alternate="Clear">lg_21_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0021.inc</POVFilename>
+			<POVFilename>lg_21.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>210.dat</LDrawFilename>
-			<POVName>lg_0210</POVName>
-			<POVName Alternate="Clear">lg_0210_clear</POVName>
+			<POVName>lg_210</POVName>
+			<POVName Alternate="Clear">lg_210_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0210.inc</POVFilename>
+			<POVFilename>lg_210.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>211.dat</LDrawFilename>
-			<POVName>lg_0211</POVName>
-			<POVName Alternate="Clear">lg_0211_clear</POVName>
+			<POVName>lg_211</POVName>
+			<POVName Alternate="Clear">lg_211_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0211.inc</POVFilename>
+			<POVFilename>lg_211.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1557,18 +1674,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>217.dat</LDrawFilename>
-			<POVName>lg_0217</POVName>
-			<POVName Alternate="Clear">lg_0217_clear</POVName>
+			<POVName>lg_217</POVName>
+			<POVName Alternate="Clear">lg_217_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0217.inc</POVFilename>
+			<POVFilename>lg_217.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>22.dat</LDrawFilename>
-			<POVName>lg_0022</POVName>
-			<POVName Alternate="Clear">lg_0022_clear</POVName>
+			<POVName>lg_22</POVName>
+			<POVName Alternate="Clear">lg_22_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0022.inc</POVFilename>
+			<POVFilename>lg_22.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1605,10 +1722,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>231.dat</LDrawFilename>
-			<POVName>lg_0231</POVName>
-			<POVName Alternate="Clear">lg_0231_clear</POVName>
+			<POVName>lg_231</POVName>
+			<POVName Alternate="Clear">lg_231_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0231.inc</POVFilename>
+			<POVFilename>lg_231.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1685,11 +1802,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>234.dat</LDrawFilename>
-			<POVName>lg_0234</POVName>
-			<POVName Alternate="Clear">lg_0234_clear</POVName>
-			<Texture Alternate="Slope">lg_0234_slope</Texture>
+			<POVName>lg_234</POVName>
+			<POVName Alternate="Clear">lg_234_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0234.inc</POVFilename>
+			<POVFilename>lg_234.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -1903,10 +2019,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>236.dat</LDrawFilename>
-			<POVName>lg_0236</POVName>
-			<POVName Alternate="Clear">lg_0236_clear</POVName>
+			<POVName>lg_236</POVName>
+			<POVName Alternate="Clear">lg_236_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0236.inc</POVFilename>
+			<POVFilename>lg_236.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2015,19 +2131,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>238.dat</LDrawFilename>
-			<POVName>lg_0238</POVName>
-			<POVName Alternate="Clear">lg_0238_clear</POVName>
-			<Texture Alternate="Slope">lg_0238_slope</Texture>
+			<POVName>lg_238</POVName>
+			<POVName Alternate="Clear">lg_238_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0238.inc</POVFilename>
+			<POVFilename>lg_238.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>239.dat</LDrawFilename>
-			<POVName>lg_0239</POVName>
-			<POVName Alternate="Clear">lg_0239_clear</POVName>
+			<POVName>lg_239</POVName>
+			<POVName Alternate="Clear">lg_239_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0239.inc</POVFilename>
+			<POVFilename>lg_239.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2056,11 +2171,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>240.dat</LDrawFilename>
-			<POVName>lg_0240</POVName>
-			<POVName Alternate="Clear">lg_0240_clear</POVName>
-			<Texture Alternate="Slope">lg_0240_slope</Texture>
+			<POVName>lg_240</POVName>
+			<POVName Alternate="Clear">lg_240_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0240.inc</POVFilename>
+			<POVFilename>lg_240.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2121,10 +2235,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>241.dat</LDrawFilename>
-			<POVName>lg_0241</POVName>
-			<POVName Alternate="Clear">lg_0241_clear</POVName>
+			<POVName>lg_241</POVName>
+			<POVName Alternate="Clear">lg_241_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0241.inc</POVFilename>
+			<POVFilename>lg_241.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2762,10 +2876,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>246.dat</LDrawFilename>
-			<POVName>lg_0246</POVName>
-			<POVName Alternate="Clear">lg_0246_clear</POVName>
+			<POVName>lg_246</POVName>
+			<POVName Alternate="Clear">lg_246_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0246.inc</POVFilename>
+			<POVFilename>lg_246.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2866,10 +2980,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>247.dat</LDrawFilename>
-			<POVName>lg_0247</POVName>
-			<POVName Alternate="Clear">lg_0247_clear</POVName>
+			<POVName>lg_247</POVName>
+			<POVName Alternate="Clear">lg_247_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0247.inc</POVFilename>
+			<POVFilename>lg_247.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -2914,11 +3028,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>248.dat</LDrawFilename>
-			<POVName>lg_0248</POVName>
-			<POVName Alternate="Clear">lg_0248_clear</POVName>
-			<Texture Alternate="Slope">lg_0248_slope</Texture>
+			<POVName>lg_248</POVName>
+			<POVName Alternate="Clear">lg_248_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0248.inc</POVFilename>
+			<POVFilename>lg_248.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3027,10 +3140,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>25.dat</LDrawFilename>
-			<POVName>lg_0025</POVName>
-			<POVName Alternate="Clear">lg_0025_clear</POVName>
+			<POVName>lg_25</POVName>
+			<POVName Alternate="Clear">lg_25_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0025.inc</POVFilename>
+			<POVFilename>lg_25.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3067,10 +3180,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>251.dat</LDrawFilename>
-			<POVName>lg_0251</POVName>
-			<POVName Alternate="Clear">lg_0251_clear</POVName>
+			<POVName>lg_251</POVName>
+			<POVName Alternate="Clear">lg_251_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0251.inc</POVFilename>
+			<POVFilename>lg_251.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3107,18 +3220,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>251c01.dat</LDrawFilename>
-			<POVName>lg_0251c01</POVName>
-			<POVName Alternate="Clear">lg_0251c01_clear</POVName>
+			<POVName>lg_251c01</POVName>
+			<POVName Alternate="Clear">lg_251c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0251c01.inc</POVFilename>
+			<POVFilename>lg_251c01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>252.dat</LDrawFilename>
-			<POVName>lg_0252</POVName>
-			<POVName Alternate="Clear">lg_0252_clear</POVName>
+			<POVName>lg_252</POVName>
+			<POVName Alternate="Clear">lg_252_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0252.inc</POVFilename>
+			<POVFilename>lg_252.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3323,10 +3436,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>256.dat</LDrawFilename>
-			<POVName>lg_0256</POVName>
-			<POVName Alternate="Clear">lg_0256_clear</POVName>
+			<POVName>lg_256</POVName>
+			<POVName Alternate="Clear">lg_256_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0256.inc</POVFilename>
+			<POVFilename>lg_256.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3347,10 +3460,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>257.dat</LDrawFilename>
-			<POVName>lg_0257</POVName>
-			<POVName Alternate="Clear">lg_0257_clear</POVName>
+			<POVName>lg_257</POVName>
+			<POVName Alternate="Clear">lg_257_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0257.inc</POVFilename>
+			<POVFilename>lg_257.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3468,10 +3581,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>259.dat</LDrawFilename>
-			<POVName>lg_0259</POVName>
-			<POVName Alternate="Clear">lg_0259_clear</POVName>
+			<POVName>lg_259</POVName>
+			<POVName Alternate="Clear">lg_259_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0259.inc</POVFilename>
+			<POVFilename>lg_259.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3492,10 +3605,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>26.dat</LDrawFilename>
-			<POVName>lg_0026</POVName>
-			<POVName Alternate="Clear">lg_0026_clear</POVName>
+			<POVName>lg_26</POVName>
+			<POVName Alternate="Clear">lg_26_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0026.inc</POVFilename>
+			<POVFilename>lg_26.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3573,10 +3686,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>262.dat</LDrawFilename>
-			<POVName>lg_0262</POVName>
-			<POVName Alternate="Clear">lg_0262_clear</POVName>
+			<POVName>lg_262</POVName>
+			<POVName Alternate="Clear">lg_262_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0262.inc</POVFilename>
+			<POVFilename>lg_262.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3823,10 +3936,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>27.dat</LDrawFilename>
-			<POVName>lg_0027</POVName>
-			<POVName Alternate="Clear">lg_0027_clear</POVName>
+			<POVName>lg_27</POVName>
+			<POVName Alternate="Clear">lg_27_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027.inc</POVFilename>
+			<POVFilename>lg_27.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3871,10 +3984,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>272.dat</LDrawFilename>
-			<POVName>lg_0272</POVName>
-			<POVName Alternate="Clear">lg_0272_clear</POVName>
+			<POVName>lg_272</POVName>
+			<POVName Alternate="Clear">lg_272_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0272.inc</POVFilename>
+			<POVFilename>lg_272.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3919,10 +4032,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>274.dat</LDrawFilename>
-			<POVName>lg_0274</POVName>
-			<POVName Alternate="Clear">lg_0274_clear</POVName>
+			<POVName>lg_274</POVName>
+			<POVName Alternate="Clear">lg_274_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0274.inc</POVFilename>
+			<POVFilename>lg_274.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3959,11 +4072,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>275.dat</LDrawFilename>
-			<POVName>lg_0275</POVName>
-			<POVName Alternate="Clear">lg_0275_clear</POVName>
-			<Texture Alternate="Slope">lg_0275_slope</Texture>
+			<POVName>lg_275</POVName>
+			<POVName Alternate="Clear">lg_275_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0275.inc</POVFilename>
+			<POVFilename>lg_275.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -3975,7 +4087,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>2772c03.dat</LDrawFilename>
+			<LDrawFilename>2772.dat</LDrawFilename>
 			<POVName>lg_2772</POVName>
 			<POVName Alternate="Clear">lg_2772_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -3983,7 +4095,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>2772-f1.dat</LDrawFilename>
+			<LDrawFilename>2772c01.dat</LDrawFilename>
 			<POVName>lg_2772c01</POVName>
 			<POVName Alternate="Clear">lg_2772c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -3991,7 +4103,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>2772-f2.dat</LDrawFilename>
+			<LDrawFilename>2772c02.dat</LDrawFilename>
 			<POVName>lg_2772c02</POVName>
 			<POVName Alternate="Clear">lg_2772c02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -3999,7 +4111,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>2772-f3.dat</LDrawFilename>
+			<LDrawFilename>2772c03.dat</LDrawFilename>
 			<POVName>lg_2772c03</POVName>
 			<POVName Alternate="Clear">lg_2772c03_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -4032,10 +4144,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>278.dat</LDrawFilename>
-			<POVName>lg_0278</POVName>
-			<POVName Alternate="Clear">lg_0278_clear</POVName>
+			<POVName>lg_278</POVName>
+			<POVName Alternate="Clear">lg_278_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0278.inc</POVFilename>
+			<POVFilename>lg_278.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4096,58 +4208,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>27a.dat</LDrawFilename>
-			<POVName>lg_0027a</POVName>
-			<POVName Alternate="Clear">lg_0027a_clear</POVName>
+			<POVName>lg_27a</POVName>
+			<POVName Alternate="Clear">lg_27a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027a.inc</POVFilename>
+			<POVFilename>lg_27a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>27ac01.dat</LDrawFilename>
-			<POVName>lg_0027ac01</POVName>
-			<POVName Alternate="Clear">lg_0027ac01_clear</POVName>
+			<POVName>lg_27ac01</POVName>
+			<POVName Alternate="Clear">lg_27ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027ac01.inc</POVFilename>
+			<POVFilename>lg_27ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>27b.dat</LDrawFilename>
-			<POVName>lg_0027b</POVName>
-			<POVName Alternate="Clear">lg_0027b_clear</POVName>
+			<POVName>lg_27b</POVName>
+			<POVName Alternate="Clear">lg_27b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027b.inc</POVFilename>
+			<POVFilename>lg_27b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>27bc01.dat</LDrawFilename>
-			<POVName>lg_0027bc01</POVName>
-			<POVName Alternate="Clear">lg_0027bc01_clear</POVName>
+			<POVName>lg_27bc01</POVName>
+			<POVName Alternate="Clear">lg_27bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027bc01.inc</POVFilename>
+			<POVFilename>lg_27bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>27c.dat</LDrawFilename>
-			<POVName>lg_0027</POVName>
-			<POVName Alternate="Clear">lg_0027_clear</POVName>
+			<POVName>lg_27c</POVName>
+			<POVName Alternate="Clear">lg_27c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027c.inc</POVFilename>
+			<POVFilename>lg_27c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>27cc01.dat</LDrawFilename>
-			<POVName>lg_0027cc01</POVName>
-			<POVName Alternate="Clear">lg_0027cc01_clear</POVName>
+			<POVName>lg_27cc01</POVName>
+			<POVName Alternate="Clear">lg_27cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0027cc01.inc</POVFilename>
+			<POVFilename>lg_27cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>28.dat</LDrawFilename>
-			<POVName>lg_0028</POVName>
-			<POVName Alternate="Clear">lg_0028_clear</POVName>
+			<POVName>lg_28</POVName>
+			<POVName Alternate="Clear">lg_28_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0028.inc</POVFilename>
+			<POVFilename>lg_28.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4264,18 +4376,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>286.dat</LDrawFilename>
-			<POVName>lg_0286</POVName>
-			<POVName Alternate="Clear">lg_0286_clear</POVName>
+			<POVName>lg_286</POVName>
+			<POVName Alternate="Clear">lg_286_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0286.inc</POVFilename>
+			<POVFilename>lg_286.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>287.dat</LDrawFilename>
-			<POVName>lg_0287</POVName>
-			<POVName Alternate="Clear">lg_0287_clear</POVName>
+			<POVName>lg_287</POVName>
+			<POVName Alternate="Clear">lg_287_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0287.inc</POVFilename>
+			<POVFilename>lg_287.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4354,10 +4466,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>288.dat</LDrawFilename>
-			<POVName>lg_0288</POVName>
-			<POVName Alternate="Clear">lg_0288_clear</POVName>
+			<POVName>lg_288</POVName>
+			<POVName Alternate="Clear">lg_288_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0288.inc</POVFilename>
+			<POVFilename>lg_288.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4370,10 +4482,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>29.dat</LDrawFilename>
-			<POVName>lg_0029</POVName>
-			<POVName Alternate="Clear">lg_0029_clear</POVName>
+			<POVName>lg_29</POVName>
+			<POVName Alternate="Clear">lg_29_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029.inc</POVFilename>
+			<POVFilename>lg_29.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4442,18 +4554,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>293.dat</LDrawFilename>
-			<POVName>lg_0293</POVName>
-			<POVName Alternate="Clear">lg_0293_clear</POVName>
+			<POVName>lg_293</POVName>
+			<POVName Alternate="Clear">lg_293_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0293.inc</POVFilename>
+			<POVFilename>lg_293.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>294.dat</LDrawFilename>
-			<POVName>lg_0294</POVName>
-			<POVName Alternate="Clear">lg_0294_clear</POVName>
+			<POVName>lg_294</POVName>
+			<POVName Alternate="Clear">lg_294_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0294.inc</POVFilename>
+			<POVFilename>lg_294.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4466,10 +4578,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>295.dat</LDrawFilename>
-			<POVName>lg_0295</POVName>
-			<POVName Alternate="Clear">lg_0295_clear</POVName>
+			<POVName>lg_295</POVName>
+			<POVName Alternate="Clear">lg_295_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0295.inc</POVFilename>
+			<POVFilename>lg_295.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4506,26 +4618,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>296.dat</LDrawFilename>
-			<POVName>lg_0296</POVName>
-			<POVName Alternate="Clear">lg_0296_clear</POVName>
+			<POVName>lg_296</POVName>
+			<POVName Alternate="Clear">lg_296_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0296.inc</POVFilename>
+			<POVFilename>lg_296.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>297.dat</LDrawFilename>
-			<POVName>lg_0297</POVName>
-			<POVName Alternate="Clear">lg_0297_clear</POVName>
+			<POVName>lg_297</POVName>
+			<POVName Alternate="Clear">lg_297_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0297.inc</POVFilename>
+			<POVFilename>lg_297.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>298.dat</LDrawFilename>
-			<POVName>lg_0298</POVName>
-			<POVName Alternate="Clear">lg_0298_clear</POVName>
+			<POVName>lg_298</POVName>
+			<POVName Alternate="Clear">lg_298_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0298.inc</POVFilename>
+			<POVFilename>lg_298.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4538,18 +4650,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>298c01.dat</LDrawFilename>
-			<POVName>lg_0298c01</POVName>
-			<POVName Alternate="Clear">lg_0298c01_clear</POVName>
+			<POVName>lg_298c01</POVName>
+			<POVName Alternate="Clear">lg_298c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0298c01.inc</POVFilename>
+			<POVFilename>lg_298c01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>299.dat</LDrawFilename>
-			<POVName>lg_0299</POVName>
-			<POVName Alternate="Clear">lg_0299_clear</POVName>
+			<POVName>lg_299</POVName>
+			<POVName Alternate="Clear">lg_299_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0299.inc</POVFilename>
+			<POVFilename>lg_299.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -4594,58 +4706,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>29a.dat</LDrawFilename>
-			<POVName>lg_0029a</POVName>
-			<POVName Alternate="Clear">lg_0029a_clear</POVName>
+			<POVName>lg_29a</POVName>
+			<POVName Alternate="Clear">lg_29a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029a.inc</POVFilename>
+			<POVFilename>lg_29a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>29ac01.dat</LDrawFilename>
-			<POVName>lg_0029ac01</POVName>
-			<POVName Alternate="Clear">lg_0029ac01_clear</POVName>
+			<POVName>lg_29ac01</POVName>
+			<POVName Alternate="Clear">lg_29ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029ac01.inc</POVFilename>
+			<POVFilename>lg_29ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>29b.dat</LDrawFilename>
-			<POVName>lg_0029b</POVName>
-			<POVName Alternate="Clear">lg_0029b_clear</POVName>
+			<POVName>lg_29b</POVName>
+			<POVName Alternate="Clear">lg_29b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029b.inc</POVFilename>
+			<POVFilename>lg_29b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>29bc01.dat</LDrawFilename>
-			<POVName>lg_0029bc01</POVName>
-			<POVName Alternate="Clear">lg_0029bc01_clear</POVName>
+			<POVName>lg_29bc01</POVName>
+			<POVName Alternate="Clear">lg_29bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029bc01.inc</POVFilename>
+			<POVFilename>lg_29bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>29c.dat</LDrawFilename>
-			<POVName>lg_0029</POVName>
-			<POVName Alternate="Clear">lg_0029_clear</POVName>
+			<POVName>lg_29c</POVName>
+			<POVName Alternate="Clear">lg_29c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029c.inc</POVFilename>
+			<POVFilename>lg_29c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>29cc01.dat</LDrawFilename>
-			<POVName>lg_0029cc01</POVName>
-			<POVName Alternate="Clear">lg_0029cc01_clear</POVName>
+			<POVName>lg_29cc01</POVName>
+			<POVName Alternate="Clear">lg_29cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0029cc01.inc</POVFilename>
+			<POVFilename>lg_29cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>3.dat</LDrawFilename>
-			<POVName>lg_0003</POVName>
-			<POVName Alternate="Clear">lg_0003_clear</POVName>
+			<POVName>lg_3</POVName>
+			<POVName Alternate="Clear">lg_3_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0003.inc</POVFilename>
+			<POVFilename>lg_3.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -5002,7 +5114,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005-o.dat</LDrawFilename>
+			<LDrawFilename>3005.dat</LDrawFilename>
 			<POVName>lg_3005</POVName>
 			<POVName Alternate="Clear">lg_3005_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5010,7 +5122,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005p02.dat</LDrawFilename>
+			<LDrawFilename>30055.dat</LDrawFilename>
 			<POVName>lg_30055</POVName>
 			<POVName Alternate="Clear">lg_30055_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5018,7 +5130,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005p03.dat</LDrawFilename>
+			<LDrawFilename>30056.dat</LDrawFilename>
 			<POVName>lg_30056</POVName>
 			<POVName Alternate="Clear">lg_30056_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5026,7 +5138,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005p04.dat</LDrawFilename>
+			<LDrawFilename>30057.dat</LDrawFilename>
 			<POVName>lg_30057</POVName>
 			<POVName Alternate="Clear">lg_30057_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5034,7 +5146,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005p05.dat</LDrawFilename>
+			<LDrawFilename>3005741.dat</LDrawFilename>
 			<POVName>lg_3005741</POVName>
 			<POVName Alternate="Clear">lg_3005741_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5042,7 +5154,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005pe3.dat</LDrawFilename>
+			<LDrawFilename>30059.dat</LDrawFilename>
 			<POVName>lg_30059</POVName>
 			<POVName Alternate="Clear">lg_30059_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5050,7 +5162,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3005pt1.dat</LDrawFilename>
+			<LDrawFilename>3005p04.dat</LDrawFilename>
 			<POVName>lg_3005p04</POVName>
 			<POVName Alternate="Clear">lg_3005p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -5315,8 +5427,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3010pzc.dat</LDrawFilename>
-			<POVName>lg_3010pz</POVName>
-			<POVName Alternate="Clear">lg_3010pz_clear</POVName>
+			<POVName>lg_3010pzc</POVName>
+			<POVName Alternate="Clear">lg_3010pzc_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3010pzc.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -5363,8 +5475,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3010pzi.dat</LDrawFilename>
-			<POVName>lg_3010pz</POVName>
-			<POVName Alternate="Clear">lg_3010pz_clear</POVName>
+			<POVName>lg_3010pzi</POVName>
+			<POVName Alternate="Clear">lg_3010pzi_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3010pzi.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -5550,10 +5662,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>302.dat</LDrawFilename>
-			<POVName>lg_0302</POVName>
-			<POVName Alternate="Clear">lg_0302_clear</POVName>
+			<POVName>lg_302</POVName>
+			<POVName Alternate="Clear">lg_302_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0302.inc</POVFilename>
+			<POVFilename>lg_302.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -5960,8 +6072,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>30367c.dat</LDrawFilename>
-			<POVName>lg_30367</POVName>
-			<POVName Alternate="Clear">lg_30367_clear</POVName>
+			<POVName>lg_30367c</POVName>
+			<POVName Alternate="Clear">lg_30367c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_30367c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -6454,9 +6566,9 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3049c.dat</LDrawFilename>
-			<POVName>lg_3049</POVName>
-			<POVName Alternate="Clear">lg_3049_clear</POVName>
-			<Texture Alternate="Slope">lg_3049_slope</Texture>
+			<POVName>lg_3049c</POVName>
+			<POVName Alternate="Clear">lg_3049c_clear</POVName>
+			<Texture Alternate="Slope">lg_3049c_slope</Texture>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3049c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -6575,10 +6687,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>306.dat</LDrawFilename>
-			<POVName>lg_0306</POVName>
-			<POVName Alternate="Clear">lg_0306_clear</POVName>
+			<POVName>lg_306</POVName>
+			<POVName Alternate="Clear">lg_306_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0306.inc</POVFilename>
+			<POVFilename>lg_306.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -6590,7 +6702,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>30621.dat</LDrawFilename>
+			<LDrawFilename>3062.dat</LDrawFilename>
 			<POVName>lg_3062</POVName>
 			<POVName Alternate="Clear">lg_3062_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -6598,7 +6710,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3062b.dat</LDrawFilename>
+			<LDrawFilename>3062a.dat</LDrawFilename>
 			<POVName>lg_3062a</POVName>
 			<POVName Alternate="Clear">lg_3062a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -6606,7 +6718,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3062-old.dat</LDrawFilename>
+			<LDrawFilename>3062b.dat</LDrawFilename>
 			<POVName>lg_3062b</POVName>
 			<POVName Alternate="Clear">lg_3062b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -7063,10 +7175,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>307.dat</LDrawFilename>
-			<POVName>lg_0307</POVName>
-			<POVName Alternate="Clear">lg_0307_clear</POVName>
+			<POVName>lg_307</POVName>
+			<POVName Alternate="Clear">lg_307_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0307.inc</POVFilename>
+			<POVFilename>lg_307.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7159,8 +7271,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3081c.dat</LDrawFilename>
-			<POVName>lg_3081</POVName>
-			<POVName Alternate="Clear">lg_3081_clear</POVName>
+			<POVName>lg_3081c</POVName>
+			<POVName Alternate="Clear">lg_3081c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3081c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -7183,34 +7295,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>309.dat</LDrawFilename>
-			<POVName>lg_0309</POVName>
-			<POVName Alternate="Clear">lg_0309_clear</POVName>
+			<POVName>lg_309</POVName>
+			<POVName Alternate="Clear">lg_309_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0309.inc</POVFilename>
+			<POVFilename>lg_309.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>309p03.dat</LDrawFilename>
-			<POVName>lg_0309p03</POVName>
-			<POVName Alternate="Clear">lg_0309p03_clear</POVName>
+			<POVName>lg_309p03</POVName>
+			<POVName Alternate="Clear">lg_309p03_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0309p03.inc</POVFilename>
+			<POVFilename>lg_309p03.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>309p04.dat</LDrawFilename>
-			<POVName>lg_0309p04</POVName>
-			<POVName Alternate="Clear">lg_0309p04_clear</POVName>
+			<POVName>lg_309p04</POVName>
+			<POVName Alternate="Clear">lg_309p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0309p04.inc</POVFilename>
+			<POVFilename>lg_309p04.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31.dat</LDrawFilename>
-			<POVName>lg_0031</POVName>
-			<POVName Alternate="Clear">lg_0031_clear</POVName>
+			<POVName>lg_31</POVName>
+			<POVName Alternate="Clear">lg_31_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031.inc</POVFilename>
+			<POVFilename>lg_31.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7263,10 +7375,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>313.dat</LDrawFilename>
-			<POVName>lg_0313</POVName>
-			<POVName Alternate="Clear">lg_0313_clear</POVName>
+			<POVName>lg_313</POVName>
+			<POVName Alternate="Clear">lg_313_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0313.inc</POVFilename>
+			<POVFilename>lg_313.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7371,10 +7483,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>314.dat</LDrawFilename>
-			<POVName>lg_0314</POVName>
-			<POVName Alternate="Clear">lg_0314_clear</POVName>
+			<POVName>lg_314</POVName>
+			<POVName Alternate="Clear">lg_314_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0314.inc</POVFilename>
+			<POVFilename>lg_314.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7419,8 +7531,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3149c.dat</LDrawFilename>
-			<POVName>lg_3149</POVName>
-			<POVName Alternate="Clear">lg_3149_clear</POVName>
+			<POVName>lg_3149c</POVName>
+			<POVName Alternate="Clear">lg_3149c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3149c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -7467,18 +7579,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>314d.dat</LDrawFilename>
-			<POVName>lg_0314d</POVName>
-			<POVName Alternate="Clear">lg_0314d_clear</POVName>
+			<POVName>lg_314d</POVName>
+			<POVName Alternate="Clear">lg_314d_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0314d.inc</POVFilename>
+			<POVFilename>lg_314d.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>314e.dat</LDrawFilename>
-			<POVName>lg_0314e</POVName>
-			<POVName Alternate="Clear">lg_0314e_clear</POVName>
+			<POVName>lg_314e</POVName>
+			<POVName Alternate="Clear">lg_314e_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0314e.inc</POVFilename>
+			<POVFilename>lg_314e.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7579,58 +7691,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>31a.dat</LDrawFilename>
-			<POVName>lg_0031a</POVName>
-			<POVName Alternate="Clear">lg_0031a_clear</POVName>
+			<POVName>lg_31a</POVName>
+			<POVName Alternate="Clear">lg_31a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031a.inc</POVFilename>
+			<POVFilename>lg_31a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31ac01.dat</LDrawFilename>
-			<POVName>lg_0031ac01</POVName>
-			<POVName Alternate="Clear">lg_0031ac01_clear</POVName>
+			<POVName>lg_31ac01</POVName>
+			<POVName Alternate="Clear">lg_31ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031ac01.inc</POVFilename>
+			<POVFilename>lg_31ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31b.dat</LDrawFilename>
-			<POVName>lg_0031b</POVName>
-			<POVName Alternate="Clear">lg_0031b_clear</POVName>
+			<POVName>lg_31b</POVName>
+			<POVName Alternate="Clear">lg_31b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031b.inc</POVFilename>
+			<POVFilename>lg_31b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31bc01.dat</LDrawFilename>
-			<POVName>lg_0031bc01</POVName>
-			<POVName Alternate="Clear">lg_0031bc01_clear</POVName>
+			<POVName>lg_31bc01</POVName>
+			<POVName Alternate="Clear">lg_31bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031bc01.inc</POVFilename>
+			<POVFilename>lg_31bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31c.dat</LDrawFilename>
-			<POVName>lg_0031</POVName>
-			<POVName Alternate="Clear">lg_0031_clear</POVName>
+			<POVName>lg_31c</POVName>
+			<POVName Alternate="Clear">lg_31c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031c.inc</POVFilename>
+			<POVFilename>lg_31c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>31cc01.dat</LDrawFilename>
-			<POVName>lg_0031cc01</POVName>
-			<POVName Alternate="Clear">lg_0031cc01_clear</POVName>
+			<POVName>lg_31cc01</POVName>
+			<POVName Alternate="Clear">lg_31cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0031cc01.inc</POVFilename>
+			<POVFilename>lg_31cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>32.dat</LDrawFilename>
-			<POVName>lg_0032</POVName>
-			<POVName Alternate="Clear">lg_0032_clear</POVName>
+			<POVName>lg_32</POVName>
+			<POVName Alternate="Clear">lg_32_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0032.inc</POVFilename>
+			<POVFilename>lg_32.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -7844,10 +7956,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>321.dat</LDrawFilename>
-			<POVName>lg_0321</POVName>
-			<POVName Alternate="Clear">lg_0321_clear</POVName>
+			<POVName>lg_321</POVName>
+			<POVName Alternate="Clear">lg_321_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0321.inc</POVFilename>
+			<POVFilename>lg_321.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8036,10 +8148,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>324.dat</LDrawFilename>
-			<POVName>lg_0324</POVName>
-			<POVName Alternate="Clear">lg_0324_clear</POVName>
+			<POVName>lg_324</POVName>
+			<POVName Alternate="Clear">lg_324_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0324.inc</POVFilename>
+			<POVFilename>lg_324.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8068,8 +8180,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3245c.dat</LDrawFilename>
-			<POVName>lg_3245</POVName>
-			<POVName Alternate="Clear">lg_3245_clear</POVName>
+			<POVName>lg_3245c</POVName>
+			<POVName Alternate="Clear">lg_3245c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3245c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -8339,34 +8451,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>32ac01.dat</LDrawFilename>
-			<POVName>lg_0032ac01</POVName>
-			<POVName Alternate="Clear">lg_0032ac01_clear</POVName>
+			<POVName>lg_32ac01</POVName>
+			<POVName Alternate="Clear">lg_32ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0032ac01.inc</POVFilename>
+			<POVFilename>lg_32ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>32bc01.dat</LDrawFilename>
-			<POVName>lg_0032bc01</POVName>
-			<POVName Alternate="Clear">lg_0032bc01_clear</POVName>
+			<POVName>lg_32bc01</POVName>
+			<POVName Alternate="Clear">lg_32bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0032bc01.inc</POVFilename>
+			<POVFilename>lg_32bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>32cc01.dat</LDrawFilename>
-			<POVName>lg_0032cc01</POVName>
-			<POVName Alternate="Clear">lg_0032cc01_clear</POVName>
+			<POVName>lg_32cc01</POVName>
+			<POVName Alternate="Clear">lg_32cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0032cc01.inc</POVFilename>
+			<POVFilename>lg_32cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>33.dat</LDrawFilename>
-			<POVName>lg_0033</POVName>
-			<POVName Alternate="Clear">lg_0033_clear</POVName>
+			<POVName>lg_33</POVName>
+			<POVName Alternate="Clear">lg_33_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0033.inc</POVFilename>
+			<POVFilename>lg_33.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8508,10 +8620,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>335.dat</LDrawFilename>
-			<POVName>lg_0335</POVName>
-			<POVName Alternate="Clear">lg_0335_clear</POVName>
+			<POVName>lg_335</POVName>
+			<POVName Alternate="Clear">lg_335_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0335.inc</POVFilename>
+			<POVFilename>lg_335.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8540,74 +8652,74 @@
 		</Element>
 		<Element>
 			<LDrawFilename>336.dat</LDrawFilename>
-			<POVName>lg_0336</POVName>
-			<POVName Alternate="Clear">lg_0336_clear</POVName>
+			<POVName>lg_336</POVName>
+			<POVName Alternate="Clear">lg_336_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0336.inc</POVFilename>
+			<POVFilename>lg_336.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>337.dat</LDrawFilename>
-			<POVName>lg_0337</POVName>
-			<POVName Alternate="Clear">lg_0337_clear</POVName>
+			<POVName>lg_337</POVName>
+			<POVName Alternate="Clear">lg_337_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0337.inc</POVFilename>
+			<POVFilename>lg_337.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>338.dat</LDrawFilename>
-			<POVName>lg_0338</POVName>
-			<POVName Alternate="Clear">lg_0338_clear</POVName>
+			<POVName>lg_338</POVName>
+			<POVName Alternate="Clear">lg_338_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0338.inc</POVFilename>
+			<POVFilename>lg_338.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>339.dat</LDrawFilename>
-			<POVName>lg_0339</POVName>
-			<POVName Alternate="Clear">lg_0339_clear</POVName>
+			<POVName>lg_339</POVName>
+			<POVName Alternate="Clear">lg_339_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0339.inc</POVFilename>
+			<POVFilename>lg_339.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>33ac01.dat</LDrawFilename>
-			<POVName>lg_0033ac01</POVName>
-			<POVName Alternate="Clear">lg_0033ac01_clear</POVName>
+			<POVName>lg_33ac01</POVName>
+			<POVName Alternate="Clear">lg_33ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0033ac01.inc</POVFilename>
+			<POVFilename>lg_33ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>33bc01.dat</LDrawFilename>
-			<POVName>lg_0033bc01</POVName>
-			<POVName Alternate="Clear">lg_0033bc01_clear</POVName>
+			<POVName>lg_33bc01</POVName>
+			<POVName Alternate="Clear">lg_33bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0033bc01.inc</POVFilename>
+			<POVFilename>lg_33bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>33cc01.dat</LDrawFilename>
-			<POVName>lg_0033cc01</POVName>
-			<POVName Alternate="Clear">lg_0033cc01_clear</POVName>
+			<POVName>lg_33cc01</POVName>
+			<POVName Alternate="Clear">lg_33cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0033cc01.inc</POVFilename>
+			<POVFilename>lg_33cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>34.dat</LDrawFilename>
-			<POVName>lg_0034</POVName>
-			<POVName Alternate="Clear">lg_0034_clear</POVName>
+			<POVName>lg_34</POVName>
+			<POVName Alternate="Clear">lg_34_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0034.inc</POVFilename>
+			<POVFilename>lg_34.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>340.dat</LDrawFilename>
-			<POVName>lg_0340</POVName>
-			<POVName Alternate="Clear">lg_0340_clear</POVName>
+			<POVName>lg_340</POVName>
+			<POVName Alternate="Clear">lg_340_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0340.inc</POVFilename>
+			<POVFilename>lg_340.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8812,50 +8924,50 @@
 		</Element>
 		<Element>
 			<LDrawFilename>34a.dat</LDrawFilename>
-			<POVName>lg_0034a</POVName>
-			<POVName Alternate="Clear">lg_0034a_clear</POVName>
+			<POVName>lg_34a</POVName>
+			<POVName Alternate="Clear">lg_34a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0034a.inc</POVFilename>
+			<POVFilename>lg_34a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>34b.dat</LDrawFilename>
-			<POVName>lg_0034b</POVName>
-			<POVName Alternate="Clear">lg_0034b_clear</POVName>
+			<POVName>lg_34b</POVName>
+			<POVName Alternate="Clear">lg_34b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0034b.inc</POVFilename>
+			<POVFilename>lg_34b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>34c.dat</LDrawFilename>
-			<POVName>lg_0034</POVName>
-			<POVName Alternate="Clear">lg_0034_clear</POVName>
+			<POVName>lg_34c</POVName>
+			<POVName Alternate="Clear">lg_34c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0034c.inc</POVFilename>
+			<POVFilename>lg_34c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>34d.dat</LDrawFilename>
-			<POVName>lg_0034d</POVName>
-			<POVName Alternate="Clear">lg_0034d_clear</POVName>
+			<POVName>lg_34d</POVName>
+			<POVName Alternate="Clear">lg_34d_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0034d.inc</POVFilename>
+			<POVFilename>lg_34d.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>35.dat</LDrawFilename>
-			<POVName>lg_0035</POVName>
-			<POVName Alternate="Clear">lg_0035_clear</POVName>
+			<POVName>lg_35</POVName>
+			<POVName Alternate="Clear">lg_35_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0035.inc</POVFilename>
+			<POVFilename>lg_35.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>352.dat</LDrawFilename>
-			<POVName>lg_0352</POVName>
-			<POVName Alternate="Clear">lg_0352_clear</POVName>
+			<POVName>lg_352</POVName>
+			<POVName Alternate="Clear">lg_352_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0352.inc</POVFilename>
+			<POVFilename>lg_352.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8915,14 +9027,6 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3596d23.dat</LDrawFilename>
-			<POVName>lg_3596d23</POVName>
-			<POVName Alternate="Clear">lg_3596d23_clear</POVName>
-			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_3596d23.inc</POVFilename>
-			<MatrixRef>LGEOTransform</MatrixRef>
-		</Element>
-		<Element>
 			<LDrawFilename>3597.dat</LDrawFilename>
 			<POVName>lg_3597</POVName>
 			<POVName Alternate="Clear">lg_3597_clear</POVName>
@@ -8932,10 +9036,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>36.dat</LDrawFilename>
-			<POVName>lg_0036</POVName>
-			<POVName Alternate="Clear">lg_0036_clear</POVName>
+			<POVName>lg_36</POVName>
+			<POVName Alternate="Clear">lg_36_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0036.inc</POVFilename>
+			<POVFilename>lg_36.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -8995,7 +9099,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>362626.dat</LDrawFilename>
+			<LDrawFilename>3626.dat</LDrawFilename>
 			<POVName>lg_3626</POVName>
 			<POVName Alternate="Clear">lg_3626_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -9003,7 +9107,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3626-4t.dat</LDrawFilename>
+			<LDrawFilename>362626.dat</LDrawFilename>
 			<POVName>lg_362626</POVName>
 			<POVName Alternate="Clear">lg_362626_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -9027,7 +9131,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>3626b-4t.dat</LDrawFilename>
+			<LDrawFilename>3626b.dat</LDrawFilename>
 			<POVName>lg_3626b</POVName>
 			<POVName Alternate="Clear">lg_3626b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -9140,8 +9244,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3626c.dat</LDrawFilename>
-			<POVName>lg_3626</POVName>
-			<POVName Alternate="Clear">lg_3626_clear</POVName>
+			<POVName>lg_3626c</POVName>
+			<POVName Alternate="Clear">lg_3626c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3626c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -9268,8 +9372,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3650c.dat</LDrawFilename>
-			<POVName>lg_3650</POVName>
-			<POVName Alternate="Clear">lg_3650_clear</POVName>
+			<POVName>lg_3650c</POVName>
+			<POVName Alternate="Clear">lg_3650c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3650c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -9327,11 +9431,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>367.dat</LDrawFilename>
-			<POVName>lg_0367</POVName>
-			<POVName Alternate="Clear">lg_0367_clear</POVName>
-			<Texture Alternate="Slope">lg_0367_slope</Texture>
+			<POVName>lg_367</POVName>
+			<POVName Alternate="Clear">lg_367_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0367.inc</POVFilename>
+			<POVFilename>lg_367.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9394,10 +9497,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>368.dat</LDrawFilename>
-			<POVName>lg_0368</POVName>
-			<POVName Alternate="Clear">lg_0368_clear</POVName>
+			<POVName>lg_368</POVName>
+			<POVName Alternate="Clear">lg_368_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0368.inc</POVFilename>
+			<POVFilename>lg_368.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9445,18 +9548,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>369.dat</LDrawFilename>
-			<POVName>lg_0369</POVName>
-			<POVName Alternate="Clear">lg_0369_clear</POVName>
+			<POVName>lg_369</POVName>
+			<POVName Alternate="Clear">lg_369_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0369.inc</POVFilename>
+			<POVFilename>lg_369.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>370.dat</LDrawFilename>
-			<POVName>lg_0370</POVName>
-			<POVName Alternate="Clear">lg_0370_clear</POVName>
+			<POVName>lg_370</POVName>
+			<POVName Alternate="Clear">lg_370_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0370.inc</POVFilename>
+			<POVFilename>lg_370.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9613,18 +9716,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3709c.dat</LDrawFilename>
-			<POVName>lg_3709</POVName>
-			<POVName Alternate="Clear">lg_3709_clear</POVName>
+			<POVName>lg_3709c</POVName>
+			<POVName Alternate="Clear">lg_3709c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3709c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>371.dat</LDrawFilename>
-			<POVName>lg_0371</POVName>
-			<POVName Alternate="Clear">lg_0371_clear</POVName>
+			<POVName>lg_371</POVName>
+			<POVName Alternate="Clear">lg_371_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0371.inc</POVFilename>
+			<POVFilename>lg_371.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9669,10 +9772,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>372.dat</LDrawFilename>
-			<POVName>lg_0372</POVName>
-			<POVName Alternate="Clear">lg_0372_clear</POVName>
+			<POVName>lg_372</POVName>
+			<POVName Alternate="Clear">lg_372_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0372.inc</POVFilename>
+			<POVFilename>lg_372.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9685,10 +9788,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>373.dat</LDrawFilename>
-			<POVName>lg_0373</POVName>
-			<POVName Alternate="Clear">lg_0373_clear</POVName>
+			<POVName>lg_373</POVName>
+			<POVName Alternate="Clear">lg_373_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0373.inc</POVFilename>
+			<POVFilename>lg_373.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9741,10 +9844,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>374.dat</LDrawFilename>
-			<POVName>lg_0374</POVName>
-			<POVName Alternate="Clear">lg_0374_clear</POVName>
+			<POVName>lg_374</POVName>
+			<POVName Alternate="Clear">lg_374_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0374.inc</POVFilename>
+			<POVFilename>lg_374.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9817,34 +9920,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>374p01.dat</LDrawFilename>
-			<POVName>lg_0374p01</POVName>
-			<POVName Alternate="Clear">lg_0374p01_clear</POVName>
+			<POVName>lg_374p01</POVName>
+			<POVName Alternate="Clear">lg_374p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0374p01.inc</POVFilename>
+			<POVFilename>lg_374p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>374p02.dat</LDrawFilename>
-			<POVName>lg_0374p02</POVName>
-			<POVName Alternate="Clear">lg_0374p02_clear</POVName>
+			<POVName>lg_374p02</POVName>
+			<POVName Alternate="Clear">lg_374p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0374p02.inc</POVFilename>
+			<POVFilename>lg_374p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>374p03.dat</LDrawFilename>
-			<POVName>lg_0374p03</POVName>
-			<POVName Alternate="Clear">lg_0374p03_clear</POVName>
+			<POVName>lg_374p03</POVName>
+			<POVName Alternate="Clear">lg_374p03_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0374p03.inc</POVFilename>
+			<POVFilename>lg_374p03.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>374p04.dat</LDrawFilename>
-			<POVName>lg_0374p04</POVName>
-			<POVName Alternate="Clear">lg_0374p04_clear</POVName>
+			<POVName>lg_374p04</POVName>
+			<POVName Alternate="Clear">lg_374p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0374p04.inc</POVFilename>
+			<POVFilename>lg_374p04.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9881,10 +9984,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>376.dat</LDrawFilename>
-			<POVName>lg_0376</POVName>
-			<POVName Alternate="Clear">lg_0376_clear</POVName>
+			<POVName>lg_376</POVName>
+			<POVName Alternate="Clear">lg_376_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0376.inc</POVFilename>
+			<POVFilename>lg_376.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -9969,10 +10072,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>380.dat</LDrawFilename>
-			<POVName>lg_0380</POVName>
-			<POVName Alternate="Clear">lg_0380_clear</POVName>
+			<POVName>lg_380</POVName>
+			<POVName Alternate="Clear">lg_380_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0380.inc</POVFilename>
+			<POVFilename>lg_380.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10329,10 +10432,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>386.dat</LDrawFilename>
-			<POVName>lg_0386</POVName>
-			<POVName Alternate="Clear">lg_0386_clear</POVName>
+			<POVName>lg_386</POVName>
+			<POVName Alternate="Clear">lg_386_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0386.inc</POVFilename>
+			<POVFilename>lg_386.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10361,10 +10464,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>387.dat</LDrawFilename>
-			<POVName>lg_0387</POVName>
-			<POVName Alternate="Clear">lg_0387_clear</POVName>
+			<POVName>lg_387</POVName>
+			<POVName Alternate="Clear">lg_387_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0387.inc</POVFilename>
+			<POVFilename>lg_387.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10385,10 +10488,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>388.dat</LDrawFilename>
-			<POVName>lg_0388</POVName>
-			<POVName Alternate="Clear">lg_0388_clear</POVName>
+			<POVName>lg_388</POVName>
+			<POVName Alternate="Clear">lg_388_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0388.inc</POVFilename>
+			<POVFilename>lg_388.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10417,10 +10520,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>39.dat</LDrawFilename>
-			<POVName>lg_0039</POVName>
-			<POVName Alternate="Clear">lg_0039_clear</POVName>
+			<POVName>lg_39</POVName>
+			<POVName Alternate="Clear">lg_39_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0039.inc</POVFilename>
+			<POVFilename>lg_39.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10561,8 +10664,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>3942c.dat</LDrawFilename>
-			<POVName>lg_3942</POVName>
-			<POVName Alternate="Clear">lg_3942_clear</POVName>
+			<POVName>lg_3942c</POVName>
+			<POVName Alternate="Clear">lg_3942c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_3942c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -10705,10 +10808,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>396.dat</LDrawFilename>
-			<POVName>lg_0396</POVName>
-			<POVName Alternate="Clear">lg_0396_clear</POVName>
+			<POVName>lg_396</POVName>
+			<POVName Alternate="Clear">lg_396_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0396.inc</POVFilename>
+			<POVFilename>lg_396.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10761,19 +10864,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>4.dat</LDrawFilename>
-			<POVName>lg_0004</POVName>
-			<POVName Alternate="Clear">lg_0004_clear</POVName>
+			<POVName>lg_4</POVName>
+			<POVName Alternate="Clear">lg_4_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0004.inc</POVFilename>
+			<POVFilename>lg_4.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>40.dat</LDrawFilename>
-			<POVName>lg_0040</POVName>
-			<POVName Alternate="Clear">lg_0040_clear</POVName>
-			<Texture Alternate="Slope">lg_0040_slope</Texture>
+			<POVName>lg_40</POVName>
+			<POVName Alternate="Clear">lg_40_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0040.inc</POVFilename>
+			<POVFilename>lg_40.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10786,10 +10888,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>401.dat</LDrawFilename>
-			<POVName>lg_0401</POVName>
-			<POVName Alternate="Clear">lg_0401_clear</POVName>
+			<POVName>lg_401</POVName>
+			<POVName Alternate="Clear">lg_401_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0401.inc</POVFilename>
+			<POVFilename>lg_401.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10922,10 +11024,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>407.dat</LDrawFilename>
-			<POVName>lg_0407</POVName>
-			<POVName Alternate="Clear">lg_0407_clear</POVName>
+			<POVName>lg_407</POVName>
+			<POVName Alternate="Clear">lg_407_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0407.inc</POVFilename>
+			<POVFilename>lg_407.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -10970,10 +11072,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>408.dat</LDrawFilename>
-			<POVName>lg_0408</POVName>
-			<POVName Alternate="Clear">lg_0408_clear</POVName>
+			<POVName>lg_408</POVName>
+			<POVName Alternate="Clear">lg_408_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0408.inc</POVFilename>
+			<POVFilename>lg_408.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -11066,8 +11168,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>4085c.dat</LDrawFilename>
-			<POVName>lg_4085</POVName>
-			<POVName Alternate="Clear">lg_4085_clear</POVName>
+			<POVName>lg_4085c</POVName>
+			<POVName Alternate="Clear">lg_4085c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_4085c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -11194,10 +11296,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>412.dat</LDrawFilename>
-			<POVName>lg_0412</POVName>
-			<POVName Alternate="Clear">lg_0412_clear</POVName>
+			<POVName>lg_412</POVName>
+			<POVName Alternate="Clear">lg_412_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0412.inc</POVFilename>
+			<POVFilename>lg_412.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -11483,8 +11585,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>4162p0c.dat</LDrawFilename>
-			<POVName>lg_4162p0</POVName>
-			<POVName Alternate="Clear">lg_4162p0_clear</POVName>
+			<POVName>lg_4162p0c</POVName>
+			<POVName Alternate="Clear">lg_4162p0c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_4162p0c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -12379,10 +12481,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>422.dat</LDrawFilename>
-			<POVName>lg_0422</POVName>
-			<POVName Alternate="Clear">lg_0422_clear</POVName>
+			<POVName>lg_422</POVName>
+			<POVName Alternate="Clear">lg_422_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0422.inc</POVFilename>
+			<POVFilename>lg_422.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -12515,10 +12617,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>424.dat</LDrawFilename>
-			<POVName>lg_0424</POVName>
-			<POVName Alternate="Clear">lg_0424_clear</POVName>
+			<POVName>lg_424</POVName>
+			<POVName Alternate="Clear">lg_424_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0424.inc</POVFilename>
+			<POVFilename>lg_424.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -12555,10 +12657,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>425.dat</LDrawFilename>
-			<POVName>lg_0425</POVName>
-			<POVName Alternate="Clear">lg_0425_clear</POVName>
+			<POVName>lg_425</POVName>
+			<POVName Alternate="Clear">lg_425_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0425.inc</POVFilename>
+			<POVFilename>lg_425.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -12571,10 +12673,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>425p01.dat</LDrawFilename>
-			<POVName>lg_0425p01</POVName>
-			<POVName Alternate="Clear">lg_0425p01_clear</POVName>
+			<POVName>lg_425p01</POVName>
+			<POVName Alternate="Clear">lg_425p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0425p01.inc</POVFilename>
+			<POVFilename>lg_425p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -12651,8 +12753,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>4265c.dat</LDrawFilename>
-			<POVName>lg_4265</POVName>
-			<POVName Alternate="Clear">lg_4265_clear</POVName>
+			<POVName>lg_4265c</POVName>
+			<POVName Alternate="Clear">lg_4265c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_4265c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -12676,10 +12778,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>427.dat</LDrawFilename>
-			<POVName>lg_0427</POVName>
-			<POVName Alternate="Clear">lg_0427_clear</POVName>
+			<POVName>lg_427</POVName>
+			<POVName Alternate="Clear">lg_427_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0427.inc</POVFilename>
+			<POVFilename>lg_427.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -12772,10 +12874,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>428.dat</LDrawFilename>
-			<POVName>lg_0428</POVName>
-			<POVName Alternate="Clear">lg_0428_clear</POVName>
+			<POVName>lg_428</POVName>
+			<POVName Alternate="Clear">lg_428_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0428.inc</POVFilename>
+			<POVFilename>lg_428.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13102,10 +13204,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>44.dat</LDrawFilename>
-			<POVName>lg_0044</POVName>
-			<POVName Alternate="Clear">lg_0044_clear</POVName>
+			<POVName>lg_44</POVName>
+			<POVName Alternate="Clear">lg_44_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0044.inc</POVFilename>
+			<POVFilename>lg_44.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13230,7 +13332,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>4449-f1.dat</LDrawFilename>
+			<LDrawFilename>4449.dat</LDrawFilename>
 			<POVName>lg_4449</POVName>
 			<POVName Alternate="Clear">lg_4449_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -13238,7 +13340,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>4449-f2.dat</LDrawFilename>
+			<LDrawFilename>4449c01.dat</LDrawFilename>
 			<POVName>lg_4449c01</POVName>
 			<POVName Alternate="Clear">lg_4449c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -13247,10 +13349,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>445.dat</LDrawFilename>
-			<POVName>lg_0445</POVName>
-			<POVName Alternate="Clear">lg_0445_clear</POVName>
+			<POVName>lg_445</POVName>
+			<POVName Alternate="Clear">lg_445_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0445.inc</POVFilename>
+			<POVFilename>lg_445.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13303,10 +13405,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>446.dat</LDrawFilename>
-			<POVName>lg_0446</POVName>
-			<POVName Alternate="Clear">lg_0446_clear</POVName>
+			<POVName>lg_446</POVName>
+			<POVName Alternate="Clear">lg_446_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0446.inc</POVFilename>
+			<POVFilename>lg_446.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13482,10 +13584,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>45.dat</LDrawFilename>
-			<POVName>lg_0045</POVName>
-			<POVName Alternate="Clear">lg_0045_clear</POVName>
+			<POVName>lg_45</POVName>
+			<POVName Alternate="Clear">lg_45_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0045.inc</POVFilename>
+			<POVFilename>lg_45.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13611,10 +13713,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>453.dat</LDrawFilename>
-			<POVName>lg_0453</POVName>
-			<POVName Alternate="Clear">lg_0453_clear</POVName>
+			<POVName>lg_453</POVName>
+			<POVName Alternate="Clear">lg_453_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453.inc</POVFilename>
+			<POVFilename>lg_453.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13667,50 +13769,50 @@
 		</Element>
 		<Element>
 			<LDrawFilename>453a.dat</LDrawFilename>
-			<POVName>lg_0453a</POVName>
-			<POVName Alternate="Clear">lg_0453a_clear</POVName>
+			<POVName>lg_453a</POVName>
+			<POVName Alternate="Clear">lg_453a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453a.inc</POVFilename>
+			<POVFilename>lg_453a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>453ac01.dat</LDrawFilename>
-			<POVName>lg_0453ac01</POVName>
-			<POVName Alternate="Clear">lg_0453ac01_clear</POVName>
+			<POVName>lg_453ac01</POVName>
+			<POVName Alternate="Clear">lg_453ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453ac01.inc</POVFilename>
+			<POVFilename>lg_453ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>453b.dat</LDrawFilename>
-			<POVName>lg_0453b</POVName>
-			<POVName Alternate="Clear">lg_0453b_clear</POVName>
+			<POVName>lg_453b</POVName>
+			<POVName Alternate="Clear">lg_453b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453b.inc</POVFilename>
+			<POVFilename>lg_453b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>453bc01.dat</LDrawFilename>
-			<POVName>lg_0453bc01</POVName>
-			<POVName Alternate="Clear">lg_0453bc01_clear</POVName>
+			<POVName>lg_453bc01</POVName>
+			<POVName Alternate="Clear">lg_453bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453bc01.inc</POVFilename>
+			<POVFilename>lg_453bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>453c.dat</LDrawFilename>
-			<POVName>lg_0453</POVName>
-			<POVName Alternate="Clear">lg_0453_clear</POVName>
+			<POVName>lg_453c</POVName>
+			<POVName Alternate="Clear">lg_453c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453c.inc</POVFilename>
+			<POVFilename>lg_453c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>453cc01.dat</LDrawFilename>
-			<POVName>lg_0453cc01</POVName>
-			<POVName Alternate="Clear">lg_0453cc01_clear</POVName>
+			<POVName>lg_453cc01</POVName>
+			<POVName Alternate="Clear">lg_453cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0453cc01.inc</POVFilename>
+			<POVFilename>lg_453cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13899,11 +14001,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>461.dat</LDrawFilename>
-			<POVName>lg_0461</POVName>
-			<POVName Alternate="Clear">lg_0461_clear</POVName>
-			<Texture Alternate="Slope">lg_0461_slope</Texture>
+			<POVName>lg_461</POVName>
+			<POVName Alternate="Clear">lg_461_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0461.inc</POVFilename>
+			<POVFilename>lg_461.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -13988,10 +14089,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>47.dat</LDrawFilename>
-			<POVName>lg_0047</POVName>
-			<POVName Alternate="Clear">lg_0047_clear</POVName>
+			<POVName>lg_47</POVName>
+			<POVName Alternate="Clear">lg_47_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0047.inc</POVFilename>
+			<POVFilename>lg_47.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14180,10 +14281,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>476.dat</LDrawFilename>
-			<POVName>lg_0476</POVName>
-			<POVName Alternate="Clear">lg_0476_clear</POVName>
+			<POVName>lg_476</POVName>
+			<POVName Alternate="Clear">lg_476_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0476.inc</POVFilename>
+			<POVFilename>lg_476.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14364,11 +14465,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>48.dat</LDrawFilename>
-			<POVName>lg_0048</POVName>
-			<POVName Alternate="Clear">lg_0048_clear</POVName>
-			<Texture Alternate="Slope">lg_0048_slope</Texture>
+			<POVName>lg_48</POVName>
+			<POVName Alternate="Clear">lg_48_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0048.inc</POVFilename>
+			<POVFilename>lg_48.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14381,10 +14481,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>481.dat</LDrawFilename>
-			<POVName>lg_0481</POVName>
-			<POVName Alternate="Clear">lg_0481_clear</POVName>
+			<POVName>lg_481</POVName>
+			<POVName Alternate="Clear">lg_481_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0481.inc</POVFilename>
+			<POVFilename>lg_481.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14405,10 +14505,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>482.dat</LDrawFilename>
-			<POVName>lg_0482</POVName>
-			<POVName Alternate="Clear">lg_0482_clear</POVName>
+			<POVName>lg_482</POVName>
+			<POVName Alternate="Clear">lg_482_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0482.inc</POVFilename>
+			<POVFilename>lg_482.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14727,26 +14827,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>497.dat</LDrawFilename>
-			<POVName>lg_0497</POVName>
-			<POVName Alternate="Clear">lg_0497_clear</POVName>
+			<POVName>lg_497</POVName>
+			<POVName Alternate="Clear">lg_497_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0497.inc</POVFilename>
+			<POVFilename>lg_497.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>5.dat</LDrawFilename>
-			<POVName>lg_0005</POVName>
-			<POVName Alternate="Clear">lg_0005_clear</POVName>
+			<POVName>lg_5</POVName>
+			<POVName Alternate="Clear">lg_5_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0005.inc</POVFilename>
+			<POVFilename>lg_5.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>50.dat</LDrawFilename>
-			<POVName>lg_0050</POVName>
-			<POVName Alternate="Clear">lg_0050_clear</POVName>
+			<POVName>lg_50</POVName>
+			<POVName Alternate="Clear">lg_50_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0050.inc</POVFilename>
+			<POVFilename>lg_50.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14945,10 +15045,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>550.dat</LDrawFilename>
-			<POVName>lg_0550</POVName>
-			<POVName Alternate="Clear">lg_0550_clear</POVName>
+			<POVName>lg_550</POVName>
+			<POVName Alternate="Clear">lg_550_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0550.inc</POVFilename>
+			<POVFilename>lg_550.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14961,27 +15061,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>556.dat</LDrawFilename>
-			<POVName>lg_0556</POVName>
-			<POVName Alternate="Clear">lg_0556_clear</POVName>
+			<POVName>lg_556</POVName>
+			<POVName Alternate="Clear">lg_556_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0556.inc</POVFilename>
+			<POVFilename>lg_556.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>55707c.dat</LDrawFilename>
-			<POVName>lg_55707</POVName>
-			<POVName Alternate="Clear">lg_55707_clear</POVName>
+			<POVName>lg_55707c</POVName>
+			<POVName Alternate="Clear">lg_55707c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_55707c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>56.dat</LDrawFilename>
-			<POVName>lg_0056</POVName>
-			<POVName Alternate="Clear">lg_0056_clear</POVName>
-			<Texture Alternate="Slope">lg_0056_slope</Texture>
+			<POVName>lg_56</POVName>
+			<POVName Alternate="Clear">lg_56_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0056.inc</POVFilename>
+			<POVFilename>lg_56.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -14994,27 +15093,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>57.dat</LDrawFilename>
-			<POVName>lg_0057</POVName>
-			<POVName Alternate="Clear">lg_0057_clear</POVName>
-			<Texture Alternate="Slope">lg_0057_slope</Texture>
+			<POVName>lg_57</POVName>
+			<POVName Alternate="Clear">lg_57_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0057.inc</POVFilename>
+			<POVFilename>lg_57.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>571.dat</LDrawFilename>
-			<POVName>lg_0571</POVName>
-			<POVName Alternate="Clear">lg_0571_clear</POVName>
+			<POVName>lg_571</POVName>
+			<POVName Alternate="Clear">lg_571_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0571.inc</POVFilename>
+			<POVFilename>lg_571.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>572a.dat</LDrawFilename>
-			<POVName>lg_0572a</POVName>
-			<POVName Alternate="Clear">lg_0572a_clear</POVName>
+			<POVName>lg_572a</POVName>
+			<POVName Alternate="Clear">lg_572a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0572a.inc</POVFilename>
+			<POVFilename>lg_572a.inc</POVFilename>
+			<MatrixRef>LGEOTransform</MatrixRef>
+		</Element>
+		<Element>
+			<LDrawFilename>572c.dat</LDrawFilename>
+			<POVName>lg_572c</POVName>
+			<POVName Alternate="Clear">lg_572c_clear</POVName>
+			<Dependency>LGDefs</Dependency>
+			<POVFilename>lg_572c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15051,18 +15157,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>577.dat</LDrawFilename>
-			<POVName>lg_0577</POVName>
-			<POVName Alternate="Clear">lg_0577_clear</POVName>
+			<POVName>lg_577</POVName>
+			<POVName Alternate="Clear">lg_577_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0577.inc</POVFilename>
+			<POVFilename>lg_577.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>577b.dat</LDrawFilename>
-			<POVName>lg_0577b</POVName>
-			<POVName Alternate="Clear">lg_0577b_clear</POVName>
+			<POVName>lg_577b</POVName>
+			<POVName Alternate="Clear">lg_577b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0577b.inc</POVFilename>
+			<POVFilename>lg_577b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15091,10 +15197,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>583.dat</LDrawFilename>
-			<POVName>lg_0583</POVName>
-			<POVName Alternate="Clear">lg_0583_clear</POVName>
+			<POVName>lg_583</POVName>
+			<POVName Alternate="Clear">lg_583_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0583.inc</POVFilename>
+			<POVFilename>lg_583.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15155,10 +15261,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>6.dat</LDrawFilename>
-			<POVName>lg_0006</POVName>
-			<POVName Alternate="Clear">lg_0006_clear</POVName>
+			<POVName>lg_6</POVName>
+			<POVName Alternate="Clear">lg_6_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0006.inc</POVFilename>
+			<POVFilename>lg_6.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15284,10 +15390,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>604.dat</LDrawFilename>
-			<POVName>lg_0604</POVName>
-			<POVName Alternate="Clear">lg_0604_clear</POVName>
+			<POVName>lg_604</POVName>
+			<POVName Alternate="Clear">lg_604_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0604.inc</POVFilename>
+			<POVFilename>lg_604.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15422,26 +15528,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>604ac01.dat</LDrawFilename>
-			<POVName>lg_0604ac01</POVName>
-			<POVName Alternate="Clear">lg_0604ac01_clear</POVName>
+			<POVName>lg_604ac01</POVName>
+			<POVName Alternate="Clear">lg_604ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0604ac01.inc</POVFilename>
+			<POVFilename>lg_604ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>604bc01.dat</LDrawFilename>
-			<POVName>lg_0604bc01</POVName>
-			<POVName Alternate="Clear">lg_0604bc01_clear</POVName>
+			<POVName>lg_604bc01</POVName>
+			<POVName Alternate="Clear">lg_604bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0604bc01.inc</POVFilename>
+			<POVFilename>lg_604bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>605.dat</LDrawFilename>
-			<POVName>lg_0605</POVName>
-			<POVName Alternate="Clear">lg_0605_clear</POVName>
+			<POVName>lg_605</POVName>
+			<POVName Alternate="Clear">lg_605_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0605.inc</POVFilename>
+			<POVFilename>lg_605.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15494,10 +15600,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>606.dat</LDrawFilename>
-			<POVName>lg_0606</POVName>
-			<POVName Alternate="Clear">lg_0606_clear</POVName>
+			<POVName>lg_606</POVName>
+			<POVName Alternate="Clear">lg_606_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0606.inc</POVFilename>
+			<POVFilename>lg_606.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15559,34 +15665,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>606p01.dat</LDrawFilename>
-			<POVName>lg_0606p01</POVName>
-			<POVName Alternate="Clear">lg_0606p01_clear</POVName>
+			<POVName>lg_606p01</POVName>
+			<POVName Alternate="Clear">lg_606p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0606p01.inc</POVFilename>
+			<POVFilename>lg_606p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>606p02.dat</LDrawFilename>
-			<POVName>lg_0606p02</POVName>
-			<POVName Alternate="Clear">lg_0606p02_clear</POVName>
+			<POVName>lg_606p02</POVName>
+			<POVName Alternate="Clear">lg_606p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0606p02.inc</POVFilename>
+			<POVFilename>lg_606p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>606p33.dat</LDrawFilename>
-			<POVName>lg_0606p33</POVName>
-			<POVName Alternate="Clear">lg_0606p33_clear</POVName>
+			<POVName>lg_606p33</POVName>
+			<POVName Alternate="Clear">lg_606p33_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0606p33.inc</POVFilename>
+			<POVFilename>lg_606p33.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>607.dat</LDrawFilename>
-			<POVName>lg_0607</POVName>
-			<POVName Alternate="Clear">lg_0607_clear</POVName>
+			<POVName>lg_607</POVName>
+			<POVName Alternate="Clear">lg_607_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0607.inc</POVFilename>
+			<POVFilename>lg_607.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15615,18 +15721,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>607p01.dat</LDrawFilename>
-			<POVName>lg_0607p01</POVName>
-			<POVName Alternate="Clear">lg_0607p01_clear</POVName>
+			<POVName>lg_607p01</POVName>
+			<POVName Alternate="Clear">lg_607p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0607p01.inc</POVFilename>
+			<POVFilename>lg_607p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>608.dat</LDrawFilename>
-			<POVName>lg_0608</POVName>
-			<POVName Alternate="Clear">lg_0608_clear</POVName>
+			<POVName>lg_608</POVName>
+			<POVName Alternate="Clear">lg_608_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608.inc</POVFilename>
+			<POVFilename>lg_608.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15679,50 +15785,50 @@
 		</Element>
 		<Element>
 			<LDrawFilename>608p01.dat</LDrawFilename>
-			<POVName>lg_0608p01</POVName>
-			<POVName Alternate="Clear">lg_0608p01_clear</POVName>
+			<POVName>lg_608p01</POVName>
+			<POVName Alternate="Clear">lg_608p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608p01.inc</POVFilename>
+			<POVFilename>lg_608p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>608p02.dat</LDrawFilename>
-			<POVName>lg_0608p02</POVName>
-			<POVName Alternate="Clear">lg_0608p02_clear</POVName>
+			<POVName>lg_608p02</POVName>
+			<POVName Alternate="Clear">lg_608p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608p02.inc</POVFilename>
+			<POVFilename>lg_608p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>608p03.dat</LDrawFilename>
-			<POVName>lg_0608p03</POVName>
-			<POVName Alternate="Clear">lg_0608p03_clear</POVName>
+			<POVName>lg_608p03</POVName>
+			<POVName Alternate="Clear">lg_608p03_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608p03.inc</POVFilename>
+			<POVFilename>lg_608p03.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>608p04.dat</LDrawFilename>
-			<POVName>lg_0608p04</POVName>
-			<POVName Alternate="Clear">lg_0608p04_clear</POVName>
+			<POVName>lg_608p04</POVName>
+			<POVName Alternate="Clear">lg_608p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608p04.inc</POVFilename>
+			<POVFilename>lg_608p04.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>608p33.dat</LDrawFilename>
-			<POVName>lg_0608p33</POVName>
-			<POVName Alternate="Clear">lg_0608p33_clear</POVName>
+			<POVName>lg_608p33</POVName>
+			<POVName Alternate="Clear">lg_608p33_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0608p33.inc</POVFilename>
+			<POVFilename>lg_608p33.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>609.dat</LDrawFilename>
-			<POVName>lg_0609</POVName>
-			<POVName Alternate="Clear">lg_0609_clear</POVName>
+			<POVName>lg_609</POVName>
+			<POVName Alternate="Clear">lg_609_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0609.inc</POVFilename>
+			<POVFilename>lg_609.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15783,18 +15889,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>609p01.dat</LDrawFilename>
-			<POVName>lg_0609p01</POVName>
-			<POVName Alternate="Clear">lg_0609p01_clear</POVName>
+			<POVName>lg_609p01</POVName>
+			<POVName Alternate="Clear">lg_609p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0609p01.inc</POVFilename>
+			<POVFilename>lg_609p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>610.dat</LDrawFilename>
-			<POVName>lg_0610</POVName>
-			<POVName Alternate="Clear">lg_0610_clear</POVName>
+			<POVName>lg_610</POVName>
+			<POVName Alternate="Clear">lg_610_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0610.inc</POVFilename>
+			<POVFilename>lg_610.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15847,18 +15953,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>610p01.dat</LDrawFilename>
-			<POVName>lg_0610p01</POVName>
-			<POVName Alternate="Clear">lg_0610p01_clear</POVName>
+			<POVName>lg_610p01</POVName>
+			<POVName Alternate="Clear">lg_610p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0610p01.inc</POVFilename>
+			<POVFilename>lg_610p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>611.dat</LDrawFilename>
-			<POVName>lg_0611</POVName>
-			<POVName Alternate="Clear">lg_0611_clear</POVName>
+			<POVName>lg_611</POVName>
+			<POVName Alternate="Clear">lg_611_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0611.inc</POVFilename>
+			<POVFilename>lg_611.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15911,18 +16017,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>611p01.dat</LDrawFilename>
-			<POVName>lg_0611p01</POVName>
-			<POVName Alternate="Clear">lg_0611p01_clear</POVName>
+			<POVName>lg_611p01</POVName>
+			<POVName Alternate="Clear">lg_611p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0611p01.inc</POVFilename>
+			<POVFilename>lg_611p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>612.dat</LDrawFilename>
-			<POVName>lg_0612</POVName>
-			<POVName Alternate="Clear">lg_0612_clear</POVName>
+			<POVName>lg_612</POVName>
+			<POVName Alternate="Clear">lg_612_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0612.inc</POVFilename>
+			<POVFilename>lg_612.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15943,18 +16049,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>612p01.dat</LDrawFilename>
-			<POVName>lg_0612p01</POVName>
-			<POVName Alternate="Clear">lg_0612p01_clear</POVName>
+			<POVName>lg_612p01</POVName>
+			<POVName Alternate="Clear">lg_612p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0612p01.inc</POVFilename>
+			<POVFilename>lg_612p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>613.dat</LDrawFilename>
-			<POVName>lg_0613</POVName>
-			<POVName Alternate="Clear">lg_0613_clear</POVName>
+			<POVName>lg_613</POVName>
+			<POVName Alternate="Clear">lg_613_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0613.inc</POVFilename>
+			<POVFilename>lg_613.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -15975,10 +16081,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>613p01.dat</LDrawFilename>
-			<POVName>lg_0613p01</POVName>
-			<POVName Alternate="Clear">lg_0613p01_clear</POVName>
+			<POVName>lg_613p01</POVName>
+			<POVName Alternate="Clear">lg_613p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0613p01.inc</POVFilename>
+			<POVFilename>lg_613p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16232,10 +16338,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>62.dat</LDrawFilename>
-			<POVName>lg_0062</POVName>
-			<POVName Alternate="Clear">lg_0062_clear</POVName>
+			<POVName>lg_62</POVName>
+			<POVName Alternate="Clear">lg_62_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0062.inc</POVFilename>
+			<POVFilename>lg_62.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16512,10 +16618,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>64.dat</LDrawFilename>
-			<POVName>lg_0064</POVName>
-			<POVName Alternate="Clear">lg_0064_clear</POVName>
+			<POVName>lg_64</POVName>
+			<POVName Alternate="Clear">lg_64_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0064.inc</POVFilename>
+			<POVFilename>lg_64.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16544,66 +16650,66 @@
 		</Element>
 		<Element>
 			<LDrawFilename>645.dat</LDrawFilename>
-			<POVName>lg_0645</POVName>
-			<POVName Alternate="Clear">lg_0645_clear</POVName>
+			<POVName>lg_645</POVName>
+			<POVName Alternate="Clear">lg_645_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645.inc</POVFilename>
+			<POVFilename>lg_645.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645a.dat</LDrawFilename>
-			<POVName>lg_0645a</POVName>
-			<POVName Alternate="Clear">lg_0645a_clear</POVName>
+			<POVName>lg_645a</POVName>
+			<POVName Alternate="Clear">lg_645a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645a.inc</POVFilename>
+			<POVFilename>lg_645a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645ac01.dat</LDrawFilename>
-			<POVName>lg_0645ac01</POVName>
-			<POVName Alternate="Clear">lg_0645ac01_clear</POVName>
+			<POVName>lg_645ac01</POVName>
+			<POVName Alternate="Clear">lg_645ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645ac01.inc</POVFilename>
+			<POVFilename>lg_645ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645b.dat</LDrawFilename>
-			<POVName>lg_0645b</POVName>
-			<POVName Alternate="Clear">lg_0645b_clear</POVName>
+			<POVName>lg_645b</POVName>
+			<POVName Alternate="Clear">lg_645b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645b.inc</POVFilename>
+			<POVFilename>lg_645b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645bc01.dat</LDrawFilename>
-			<POVName>lg_0645bc01</POVName>
-			<POVName Alternate="Clear">lg_0645bc01_clear</POVName>
+			<POVName>lg_645bc01</POVName>
+			<POVName Alternate="Clear">lg_645bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645bc01.inc</POVFilename>
+			<POVFilename>lg_645bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645c.dat</LDrawFilename>
-			<POVName>lg_0645</POVName>
-			<POVName Alternate="Clear">lg_0645_clear</POVName>
+			<POVName>lg_645c</POVName>
+			<POVName Alternate="Clear">lg_645c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645c.inc</POVFilename>
+			<POVFilename>lg_645c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>645cc01.dat</LDrawFilename>
-			<POVName>lg_0645cc01</POVName>
-			<POVName Alternate="Clear">lg_0645cc01_clear</POVName>
+			<POVName>lg_645cc01</POVName>
+			<POVName Alternate="Clear">lg_645cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0645cc01.inc</POVFilename>
+			<POVFilename>lg_645cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646.dat</LDrawFilename>
-			<POVName>lg_0646</POVName>
-			<POVName Alternate="Clear">lg_0646_clear</POVName>
+			<POVName>lg_646</POVName>
+			<POVName Alternate="Clear">lg_646_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646.inc</POVFilename>
+			<POVFilename>lg_646.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16616,58 +16722,58 @@
 		</Element>
 		<Element>
 			<LDrawFilename>646a.dat</LDrawFilename>
-			<POVName>lg_0646a</POVName>
-			<POVName Alternate="Clear">lg_0646a_clear</POVName>
+			<POVName>lg_646a</POVName>
+			<POVName Alternate="Clear">lg_646a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646a.inc</POVFilename>
+			<POVFilename>lg_646a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646ac01.dat</LDrawFilename>
-			<POVName>lg_0646ac01</POVName>
-			<POVName Alternate="Clear">lg_0646ac01_clear</POVName>
+			<POVName>lg_646ac01</POVName>
+			<POVName Alternate="Clear">lg_646ac01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646ac01.inc</POVFilename>
+			<POVFilename>lg_646ac01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646b.dat</LDrawFilename>
-			<POVName>lg_0646b</POVName>
-			<POVName Alternate="Clear">lg_0646b_clear</POVName>
+			<POVName>lg_646b</POVName>
+			<POVName Alternate="Clear">lg_646b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646b.inc</POVFilename>
+			<POVFilename>lg_646b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646bc01.dat</LDrawFilename>
-			<POVName>lg_0646bc01</POVName>
-			<POVName Alternate="Clear">lg_0646bc01_clear</POVName>
+			<POVName>lg_646bc01</POVName>
+			<POVName Alternate="Clear">lg_646bc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646bc01.inc</POVFilename>
+			<POVFilename>lg_646bc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646c.dat</LDrawFilename>
-			<POVName>lg_0646</POVName>
-			<POVName Alternate="Clear">lg_0646_clear</POVName>
+			<POVName>lg_646c</POVName>
+			<POVName Alternate="Clear">lg_646c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646c.inc</POVFilename>
+			<POVFilename>lg_646c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>646cc01.dat</LDrawFilename>
-			<POVName>lg_0646cc01</POVName>
-			<POVName Alternate="Clear">lg_0646cc01_clear</POVName>
+			<POVName>lg_646cc01</POVName>
+			<POVName Alternate="Clear">lg_646cc01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0646cc01.inc</POVFilename>
+			<POVFilename>lg_646cc01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>647.dat</LDrawFilename>
-			<POVName>lg_0647</POVName>
-			<POVName Alternate="Clear">lg_0647_clear</POVName>
+			<POVName>lg_647</POVName>
+			<POVName Alternate="Clear">lg_647_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0647.inc</POVFilename>
+			<POVFilename>lg_647.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16688,42 +16794,42 @@
 		</Element>
 		<Element>
 			<LDrawFilename>648.dat</LDrawFilename>
-			<POVName>lg_0648</POVName>
-			<POVName Alternate="Clear">lg_0648_clear</POVName>
+			<POVName>lg_648</POVName>
+			<POVName Alternate="Clear">lg_648_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0648.inc</POVFilename>
+			<POVFilename>lg_648.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>649.dat</LDrawFilename>
-			<POVName>lg_0649</POVName>
-			<POVName Alternate="Clear">lg_0649_clear</POVName>
+			<POVName>lg_649</POVName>
+			<POVName Alternate="Clear">lg_649_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0649.inc</POVFilename>
+			<POVFilename>lg_649.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>649p01.dat</LDrawFilename>
-			<POVName>lg_0649p01</POVName>
-			<POVName Alternate="Clear">lg_0649p01_clear</POVName>
+			<POVName>lg_649p01</POVName>
+			<POVName Alternate="Clear">lg_649p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0649p01.inc</POVFilename>
+			<POVFilename>lg_649p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>649p02.dat</LDrawFilename>
-			<POVName>lg_0649p02</POVName>
-			<POVName Alternate="Clear">lg_0649p02_clear</POVName>
+			<POVName>lg_649p02</POVName>
+			<POVName Alternate="Clear">lg_649p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0649p02.inc</POVFilename>
+			<POVFilename>lg_649p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>65.dat</LDrawFilename>
-			<POVName>lg_0065</POVName>
-			<POVName Alternate="Clear">lg_0065_clear</POVName>
+			<POVName>lg_65</POVName>
+			<POVName Alternate="Clear">lg_65_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0065.inc</POVFilename>
+			<POVFilename>lg_65.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -16992,34 +17098,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>675.dat</LDrawFilename>
-			<POVName>lg_0675</POVName>
-			<POVName Alternate="Clear">lg_0675_clear</POVName>
+			<POVName>lg_675</POVName>
+			<POVName Alternate="Clear">lg_675_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0675.inc</POVFilename>
+			<POVFilename>lg_675.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>675p01.dat</LDrawFilename>
-			<POVName>lg_0675p01</POVName>
-			<POVName Alternate="Clear">lg_0675p01_clear</POVName>
+			<POVName>lg_675p01</POVName>
+			<POVName Alternate="Clear">lg_675p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0675p01.inc</POVFilename>
+			<POVFilename>lg_675p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>676.dat</LDrawFilename>
-			<POVName>lg_0676</POVName>
-			<POVName Alternate="Clear">lg_0676_clear</POVName>
+			<POVName>lg_676</POVName>
+			<POVName Alternate="Clear">lg_676_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0676.inc</POVFilename>
+			<POVFilename>lg_676.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>69.dat</LDrawFilename>
-			<POVName>lg_0069</POVName>
-			<POVName Alternate="Clear">lg_0069_clear</POVName>
+			<POVName>lg_69</POVName>
+			<POVName Alternate="Clear">lg_69_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0069.inc</POVFilename>
+			<POVFilename>lg_69.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17032,26 +17138,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>7.dat</LDrawFilename>
-			<POVName>lg_0007</POVName>
-			<POVName Alternate="Clear">lg_0007_clear</POVName>
+			<POVName>lg_7</POVName>
+			<POVName Alternate="Clear">lg_7_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0007.inc</POVFilename>
+			<POVFilename>lg_7.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>70.dat</LDrawFilename>
-			<POVName>lg_0070</POVName>
-			<POVName Alternate="Clear">lg_0070_clear</POVName>
+			<POVName>lg_70</POVName>
+			<POVName Alternate="Clear">lg_70_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0070.inc</POVFilename>
+			<POVFilename>lg_70.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>700.dat</LDrawFilename>
-			<POVName>lg_0700</POVName>
-			<POVName Alternate="Clear">lg_0700_clear</POVName>
+			<POVName>lg_700</POVName>
+			<POVName Alternate="Clear">lg_700_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0700.inc</POVFilename>
+			<POVFilename>lg_700.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17064,26 +17170,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>700a.dat</LDrawFilename>
-			<POVName>lg_0700a</POVName>
-			<POVName Alternate="Clear">lg_0700a_clear</POVName>
+			<POVName>lg_700a</POVName>
+			<POVName Alternate="Clear">lg_700a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0700a.inc</POVFilename>
+			<POVFilename>lg_700a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>700b.dat</LDrawFilename>
-			<POVName>lg_0700b</POVName>
-			<POVName Alternate="Clear">lg_0700b_clear</POVName>
+			<POVName>lg_700b</POVName>
+			<POVName Alternate="Clear">lg_700b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0700b.inc</POVFilename>
+			<POVFilename>lg_700b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>702.dat</LDrawFilename>
-			<POVName>lg_0702</POVName>
-			<POVName Alternate="Clear">lg_0702_clear</POVName>
+			<POVName>lg_702</POVName>
+			<POVName Alternate="Clear">lg_702_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0702.inc</POVFilename>
+			<POVFilename>lg_702.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17096,8 +17202,8 @@
 		</Element>
 		<Element>
 			<LDrawFilename>7026c.dat</LDrawFilename>
-			<POVName>lg_7026</POVName>
-			<POVName Alternate="Clear">lg_7026_clear</POVName>
+			<POVName>lg_7026c</POVName>
+			<POVName Alternate="Clear">lg_7026c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
 			<POVFilename>lg_7026c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
@@ -17144,10 +17250,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>708.dat</LDrawFilename>
-			<POVName>lg_0708</POVName>
-			<POVName Alternate="Clear">lg_0708_clear</POVName>
+			<POVName>lg_708</POVName>
+			<POVName Alternate="Clear">lg_708_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0708.inc</POVFilename>
+			<POVFilename>lg_708.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17160,10 +17266,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>709.dat</LDrawFilename>
-			<POVName>lg_0709</POVName>
-			<POVName Alternate="Clear">lg_0709_clear</POVName>
+			<POVName>lg_709</POVName>
+			<POVName Alternate="Clear">lg_709_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0709.inc</POVFilename>
+			<POVFilename>lg_709.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17200,10 +17306,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>711.dat</LDrawFilename>
-			<POVName>lg_0711</POVName>
-			<POVName Alternate="Clear">lg_0711_clear</POVName>
+			<POVName>lg_711</POVName>
+			<POVName Alternate="Clear">lg_711_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0711.inc</POVFilename>
+			<POVFilename>lg_711.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17232,42 +17338,42 @@
 		</Element>
 		<Element>
 			<LDrawFilename>712.dat</LDrawFilename>
-			<POVName>lg_0712</POVName>
-			<POVName Alternate="Clear">lg_0712_clear</POVName>
+			<POVName>lg_712</POVName>
+			<POVName Alternate="Clear">lg_712_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0712.inc</POVFilename>
+			<POVFilename>lg_712.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>712a.dat</LDrawFilename>
-			<POVName>lg_0712a</POVName>
-			<POVName Alternate="Clear">lg_0712a_clear</POVName>
+			<POVName>lg_712a</POVName>
+			<POVName Alternate="Clear">lg_712a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0712a.inc</POVFilename>
+			<POVFilename>lg_712a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>713.dat</LDrawFilename>
-			<POVName>lg_0713</POVName>
-			<POVName Alternate="Clear">lg_0713_clear</POVName>
+			<POVName>lg_713</POVName>
+			<POVName Alternate="Clear">lg_713_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0713.inc</POVFilename>
+			<POVFilename>lg_713.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>713a.dat</LDrawFilename>
-			<POVName>lg_0713a</POVName>
-			<POVName Alternate="Clear">lg_0713a_clear</POVName>
+			<POVName>lg_713a</POVName>
+			<POVName Alternate="Clear">lg_713a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0713a.inc</POVFilename>
+			<POVFilename>lg_713a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>715.dat</LDrawFilename>
-			<POVName>lg_0715</POVName>
-			<POVName Alternate="Clear">lg_0715_clear</POVName>
+			<POVName>lg_715</POVName>
+			<POVName Alternate="Clear">lg_715_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0715.inc</POVFilename>
+			<POVFilename>lg_715.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17289,10 +17395,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>728.dat</LDrawFilename>
-			<POVName>lg_0728</POVName>
-			<POVName Alternate="Clear">lg_0728_clear</POVName>
+			<POVName>lg_728</POVName>
+			<POVName Alternate="Clear">lg_728_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0728.inc</POVFilename>
+			<POVFilename>lg_728.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17329,10 +17435,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>733.dat</LDrawFilename>
-			<POVName>lg_0733</POVName>
-			<POVName Alternate="Clear">lg_0733_clear</POVName>
+			<POVName>lg_733</POVName>
+			<POVName Alternate="Clear">lg_733_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0733.inc</POVFilename>
+			<POVFilename>lg_733.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17417,26 +17523,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>750.dat</LDrawFilename>
-			<POVName>lg_0750</POVName>
-			<POVName Alternate="Clear">lg_0750_clear</POVName>
+			<POVName>lg_750</POVName>
+			<POVName Alternate="Clear">lg_750_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0750.inc</POVFilename>
+			<POVFilename>lg_750.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>752.dat</LDrawFilename>
-			<POVName>lg_0752</POVName>
-			<POVName Alternate="Clear">lg_0752_clear</POVName>
+			<POVName>lg_752</POVName>
+			<POVName Alternate="Clear">lg_752_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0752.inc</POVFilename>
+			<POVFilename>lg_752.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>755.dat</LDrawFilename>
-			<POVName>lg_0755</POVName>
-			<POVName Alternate="Clear">lg_0755_clear</POVName>
+			<POVName>lg_755</POVName>
+			<POVName Alternate="Clear">lg_755_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0755.inc</POVFilename>
+			<POVFilename>lg_755.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17449,34 +17555,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>756.dat</LDrawFilename>
-			<POVName>lg_0756</POVName>
-			<POVName Alternate="Clear">lg_0756_clear</POVName>
+			<POVName>lg_756</POVName>
+			<POVName Alternate="Clear">lg_756_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0756.inc</POVFilename>
+			<POVFilename>lg_756.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>757.dat</LDrawFilename>
-			<POVName>lg_0757</POVName>
-			<POVName Alternate="Clear">lg_0757_clear</POVName>
+			<POVName>lg_757</POVName>
+			<POVName Alternate="Clear">lg_757_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0757.inc</POVFilename>
+			<POVFilename>lg_757.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>758.dat</LDrawFilename>
-			<POVName>lg_0758</POVName>
-			<POVName Alternate="Clear">lg_0758_clear</POVName>
+			<POVName>lg_758</POVName>
+			<POVName Alternate="Clear">lg_758_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0758.inc</POVFilename>
+			<POVFilename>lg_758.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>759.dat</LDrawFilename>
-			<POVName>lg_0759</POVName>
-			<POVName Alternate="Clear">lg_0759_clear</POVName>
+			<POVName>lg_759</POVName>
+			<POVName Alternate="Clear">lg_759_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0759.inc</POVFilename>
+			<POVFilename>lg_759.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17505,42 +17611,42 @@
 		</Element>
 		<Element>
 			<LDrawFilename>772.dat</LDrawFilename>
-			<POVName>lg_0772</POVName>
-			<POVName Alternate="Clear">lg_0772_clear</POVName>
+			<POVName>lg_772</POVName>
+			<POVName Alternate="Clear">lg_772_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0772.inc</POVFilename>
+			<POVFilename>lg_772.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>772p01.dat</LDrawFilename>
-			<POVName>lg_0772p01</POVName>
-			<POVName Alternate="Clear">lg_0772p01_clear</POVName>
+			<POVName>lg_772p01</POVName>
+			<POVName Alternate="Clear">lg_772p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0772p01.inc</POVFilename>
+			<POVFilename>lg_772p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>79.dat</LDrawFilename>
-			<POVName>lg_0079</POVName>
-			<POVName Alternate="Clear">lg_0079_clear</POVName>
+			<POVName>lg_79</POVName>
+			<POVName Alternate="Clear">lg_79_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0079.inc</POVFilename>
+			<POVFilename>lg_79.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>792.dat</LDrawFilename>
-			<POVName>lg_0792</POVName>
-			<POVName Alternate="Clear">lg_0792_clear</POVName>
+			<POVName>lg_792</POVName>
+			<POVName Alternate="Clear">lg_792_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0792.inc</POVFilename>
+			<POVFilename>lg_792.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>793.dat</LDrawFilename>
-			<POVName>lg_0793</POVName>
-			<POVName Alternate="Clear">lg_0793_clear</POVName>
+			<POVName>lg_793</POVName>
+			<POVName Alternate="Clear">lg_793_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0793.inc</POVFilename>
+			<POVFilename>lg_793.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17553,66 +17659,66 @@
 		</Element>
 		<Element>
 			<LDrawFilename>794.dat</LDrawFilename>
-			<POVName>lg_0794</POVName>
-			<POVName Alternate="Clear">lg_0794_clear</POVName>
+			<POVName>lg_794</POVName>
+			<POVName Alternate="Clear">lg_794_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0794.inc</POVFilename>
+			<POVFilename>lg_794.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>795.dat</LDrawFilename>
-			<POVName>lg_0795</POVName>
-			<POVName Alternate="Clear">lg_0795_clear</POVName>
+			<POVName>lg_795</POVName>
+			<POVName Alternate="Clear">lg_795_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0795.inc</POVFilename>
+			<POVFilename>lg_795.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>799.dat</LDrawFilename>
-			<POVName>lg_0799</POVName>
-			<POVName Alternate="Clear">lg_0799_clear</POVName>
+			<POVName>lg_799</POVName>
+			<POVName Alternate="Clear">lg_799_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0799.inc</POVFilename>
+			<POVFilename>lg_799.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>8.dat</LDrawFilename>
-			<POVName>lg_0008</POVName>
-			<POVName Alternate="Clear">lg_0008_clear</POVName>
+			<POVName>lg_8</POVName>
+			<POVName Alternate="Clear">lg_8_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0008.inc</POVFilename>
+			<POVFilename>lg_8.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>80.dat</LDrawFilename>
-			<POVName>lg_0080</POVName>
-			<POVName Alternate="Clear">lg_0080_clear</POVName>
+			<POVName>lg_80</POVName>
+			<POVName Alternate="Clear">lg_80_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0080.inc</POVFilename>
+			<POVFilename>lg_80.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>800.dat</LDrawFilename>
-			<POVName>lg_0800</POVName>
-			<POVName Alternate="Clear">lg_0800_clear</POVName>
+			<POVName>lg_800</POVName>
+			<POVName Alternate="Clear">lg_800_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0800.inc</POVFilename>
+			<POVFilename>lg_800.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>801.dat</LDrawFilename>
-			<POVName>lg_0801</POVName>
-			<POVName Alternate="Clear">lg_0801_clear</POVName>
+			<POVName>lg_801</POVName>
+			<POVName Alternate="Clear">lg_801_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0801.inc</POVFilename>
+			<POVFilename>lg_801.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>802.dat</LDrawFilename>
-			<POVName>lg_0802</POVName>
-			<POVName Alternate="Clear">lg_0802_clear</POVName>
+			<POVName>lg_802</POVName>
+			<POVName Alternate="Clear">lg_802_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0802.inc</POVFilename>
+			<POVFilename>lg_802.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17697,18 +17803,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>809.dat</LDrawFilename>
-			<POVName>lg_0809</POVName>
-			<POVName Alternate="Clear">lg_0809_clear</POVName>
+			<POVName>lg_809</POVName>
+			<POVName Alternate="Clear">lg_809_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0809.inc</POVFilename>
+			<POVFilename>lg_809.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>811.dat</LDrawFilename>
-			<POVName>lg_0811</POVName>
-			<POVName Alternate="Clear">lg_0811_clear</POVName>
+			<POVName>lg_811</POVName>
+			<POVName Alternate="Clear">lg_811_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0811.inc</POVFilename>
+			<POVFilename>lg_811.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -17729,26 +17835,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>825.dat</LDrawFilename>
-			<POVName>lg_0825</POVName>
-			<POVName Alternate="Clear">lg_0825_clear</POVName>
+			<POVName>lg_825</POVName>
+			<POVName Alternate="Clear">lg_825_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0825.inc</POVFilename>
+			<POVFilename>lg_825.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>826.dat</LDrawFilename>
-			<POVName>lg_0826</POVName>
-			<POVName Alternate="Clear">lg_0826_clear</POVName>
+			<POVName>lg_826</POVName>
+			<POVName Alternate="Clear">lg_826_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0826.inc</POVFilename>
+			<POVFilename>lg_826.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>837.dat</LDrawFilename>
-			<POVName>lg_0837</POVName>
-			<POVName Alternate="Clear">lg_0837_clear</POVName>
+			<POVName>lg_837</POVName>
+			<POVName Alternate="Clear">lg_837_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0837.inc</POVFilename>
+			<POVFilename>lg_837.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18049,10 +18155,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>89.dat</LDrawFilename>
-			<POVName>lg_0089</POVName>
-			<POVName Alternate="Clear">lg_0089_clear</POVName>
+			<POVName>lg_89</POVName>
+			<POVName Alternate="Clear">lg_89_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0089.inc</POVFilename>
+			<POVFilename>lg_89.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18065,34 +18171,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>89a.dat</LDrawFilename>
-			<POVName>lg_0089a</POVName>
-			<POVName Alternate="Clear">lg_0089a_clear</POVName>
+			<POVName>lg_89a</POVName>
+			<POVName Alternate="Clear">lg_89a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0089a.inc</POVFilename>
+			<POVFilename>lg_89a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>89b.dat</LDrawFilename>
-			<POVName>lg_0089b</POVName>
-			<POVName Alternate="Clear">lg_0089b_clear</POVName>
+			<POVName>lg_89b</POVName>
+			<POVName Alternate="Clear">lg_89b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0089b.inc</POVFilename>
+			<POVFilename>lg_89b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>9.dat</LDrawFilename>
-			<POVName>lg_0009</POVName>
-			<POVName Alternate="Clear">lg_0009_clear</POVName>
+			<POVName>lg_9</POVName>
+			<POVName Alternate="Clear">lg_9_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0009.inc</POVFilename>
+			<POVFilename>lg_9.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>90.dat</LDrawFilename>
-			<POVName>lg_0090</POVName>
-			<POVName Alternate="Clear">lg_0090_clear</POVName>
+			<POVName>lg_90</POVName>
+			<POVName Alternate="Clear">lg_90_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0090.inc</POVFilename>
+			<POVFilename>lg_90.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18105,10 +18211,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>902.dat</LDrawFilename>
-			<POVName>lg_0902</POVName>
-			<POVName Alternate="Clear">lg_0902_clear</POVName>
+			<POVName>lg_902</POVName>
+			<POVName Alternate="Clear">lg_902_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0902.inc</POVFilename>
+			<POVFilename>lg_902.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18129,34 +18235,34 @@
 		</Element>
 		<Element>
 			<LDrawFilename>905.dat</LDrawFilename>
-			<POVName>lg_0905</POVName>
-			<POVName Alternate="Clear">lg_0905_clear</POVName>
+			<POVName>lg_905</POVName>
+			<POVName Alternate="Clear">lg_905_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0905.inc</POVFilename>
+			<POVFilename>lg_905.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>905c01.dat</LDrawFilename>
-			<POVName>lg_0905c01</POVName>
-			<POVName Alternate="Clear">lg_0905c01_clear</POVName>
+			<POVName>lg_905c01</POVName>
+			<POVName Alternate="Clear">lg_905c01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0905c01.inc</POVFilename>
+			<POVFilename>lg_905c01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>906.dat</LDrawFilename>
-			<POVName>lg_0906</POVName>
-			<POVName Alternate="Clear">lg_0906_clear</POVName>
+			<POVName>lg_906</POVName>
+			<POVName Alternate="Clear">lg_906_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0906.inc</POVFilename>
+			<POVFilename>lg_906.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>91.dat</LDrawFilename>
-			<POVName>lg_0091</POVName>
-			<POVName Alternate="Clear">lg_0091_clear</POVName>
+			<POVName>lg_91</POVName>
+			<POVName Alternate="Clear">lg_91_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0091.inc</POVFilename>
+			<POVFilename>lg_91.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18169,10 +18275,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>912.dat</LDrawFilename>
-			<POVName>lg_0912</POVName>
-			<POVName Alternate="Clear">lg_0912_clear</POVName>
+			<POVName>lg_912</POVName>
+			<POVName Alternate="Clear">lg_912_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0912.inc</POVFilename>
+			<POVFilename>lg_912.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18185,10 +18291,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>915.dat</LDrawFilename>
-			<POVName>lg_0915</POVName>
-			<POVName Alternate="Clear">lg_0915_clear</POVName>
+			<POVName>lg_915</POVName>
+			<POVName Alternate="Clear">lg_915_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0915.inc</POVFilename>
+			<POVFilename>lg_915.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18201,26 +18307,26 @@
 		</Element>
 		<Element>
 			<LDrawFilename>915p01.dat</LDrawFilename>
-			<POVName>lg_0915p01</POVName>
-			<POVName Alternate="Clear">lg_0915p01_clear</POVName>
+			<POVName>lg_915p01</POVName>
+			<POVName Alternate="Clear">lg_915p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0915p01.inc</POVFilename>
+			<POVFilename>lg_915p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>915p02.dat</LDrawFilename>
-			<POVName>lg_0915p02</POVName>
-			<POVName Alternate="Clear">lg_0915p02_clear</POVName>
+			<POVName>lg_915p02</POVName>
+			<POVName Alternate="Clear">lg_915p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0915p02.inc</POVFilename>
+			<POVFilename>lg_915p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>915p04.dat</LDrawFilename>
-			<POVName>lg_0915p04</POVName>
-			<POVName Alternate="Clear">lg_0915p04_clear</POVName>
+			<POVName>lg_915p04</POVName>
+			<POVName Alternate="Clear">lg_915p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0915p04.inc</POVFilename>
+			<POVFilename>lg_915p04.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18233,18 +18339,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>921.dat</LDrawFilename>
-			<POVName>lg_0921</POVName>
-			<POVName Alternate="Clear">lg_0921_clear</POVName>
+			<POVName>lg_921</POVName>
+			<POVName Alternate="Clear">lg_921_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0921.inc</POVFilename>
+			<POVFilename>lg_921.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>922.dat</LDrawFilename>
-			<POVName>lg_0922</POVName>
-			<POVName Alternate="Clear">lg_0922_clear</POVName>
+			<POVName>lg_922</POVName>
+			<POVName Alternate="Clear">lg_922_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0922.inc</POVFilename>
+			<POVFilename>lg_922.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18257,18 +18363,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>923.dat</LDrawFilename>
-			<POVName>lg_0923</POVName>
-			<POVName Alternate="Clear">lg_0923_clear</POVName>
+			<POVName>lg_923</POVName>
+			<POVName Alternate="Clear">lg_923_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0923.inc</POVFilename>
+			<POVFilename>lg_923.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>924.dat</LDrawFilename>
-			<POVName>lg_0924</POVName>
-			<POVName Alternate="Clear">lg_0924_clear</POVName>
+			<POVName>lg_924</POVName>
+			<POVName Alternate="Clear">lg_924_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0924.inc</POVFilename>
+			<POVFilename>lg_924.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18289,10 +18395,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>925.dat</LDrawFilename>
-			<POVName>lg_0925</POVName>
-			<POVName Alternate="Clear">lg_0925_clear</POVName>
+			<POVName>lg_925</POVName>
+			<POVName Alternate="Clear">lg_925_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0925.inc</POVFilename>
+			<POVFilename>lg_925.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18329,10 +18435,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>93.dat</LDrawFilename>
-			<POVName>lg_0093</POVName>
-			<POVName Alternate="Clear">lg_0093_clear</POVName>
+			<POVName>lg_93</POVName>
+			<POVName Alternate="Clear">lg_93_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0093.inc</POVFilename>
+			<POVFilename>lg_93.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18352,7 +18458,7 @@
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
-			<LDrawFilename>9326-4t.dat</LDrawFilename>
+			<LDrawFilename>9326.dat</LDrawFilename>
 			<POVName>lg_9326</POVName>
 			<POVName Alternate="Clear">lg_9326_clear</POVName>
 			<Dependency>LGDefs</Dependency>
@@ -18449,10 +18555,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>94.dat</LDrawFilename>
-			<POVName>lg_0094</POVName>
-			<POVName Alternate="Clear">lg_0094_clear</POVName>
+			<POVName>lg_94</POVName>
+			<POVName Alternate="Clear">lg_94_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0094.inc</POVFilename>
+			<POVFilename>lg_94.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18465,10 +18571,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>95.dat</LDrawFilename>
-			<POVName>lg_0095</POVName>
-			<POVName Alternate="Clear">lg_0095_clear</POVName>
+			<POVName>lg_95</POVName>
+			<POVName Alternate="Clear">lg_95_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0095.inc</POVFilename>
+			<POVFilename>lg_95.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18529,420 +18635,418 @@
 		</Element>
 		<Element>
 			<LDrawFilename>96.dat</LDrawFilename>
-			<POVName>lg_0096</POVName>
-			<POVName Alternate="Clear">lg_0096_clear</POVName>
+			<POVName>lg_96</POVName>
+			<POVName Alternate="Clear">lg_96_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0096.inc</POVFilename>
+			<POVFilename>lg_96.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>960.dat</LDrawFilename>
-			<POVName>lg_0960</POVName>
-			<POVName Alternate="Clear">lg_0960_clear</POVName>
+			<POVName>lg_960</POVName>
+			<POVName Alternate="Clear">lg_960_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0960.inc</POVFilename>
+			<POVFilename>lg_960.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>961.dat</LDrawFilename>
-			<POVName>lg_0961</POVName>
-			<POVName Alternate="Clear">lg_0961_clear</POVName>
+			<POVName>lg_961</POVName>
+			<POVName Alternate="Clear">lg_961_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0961.inc</POVFilename>
+			<POVFilename>lg_961.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>962.dat</LDrawFilename>
-			<POVName>lg_0962</POVName>
-			<POVName Alternate="Clear">lg_0962_clear</POVName>
-			<Texture Alternate="Slope">lg_0962_slope</Texture>
+			<POVName>lg_962</POVName>
+			<POVName Alternate="Clear">lg_962_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0962.inc</POVFilename>
+			<POVFilename>lg_962.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>965.dat</LDrawFilename>
-			<POVName>lg_0965</POVName>
-			<POVName Alternate="Clear">lg_0965_clear</POVName>
+			<POVName>lg_965</POVName>
+			<POVName Alternate="Clear">lg_965_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0965.inc</POVFilename>
+			<POVFilename>lg_965.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>967.dat</LDrawFilename>
-			<POVName>lg_0967</POVName>
-			<POVName Alternate="Clear">lg_0967_clear</POVName>
+			<POVName>lg_967</POVName>
+			<POVName Alternate="Clear">lg_967_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0967.inc</POVFilename>
+			<POVFilename>lg_967.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>968.dat</LDrawFilename>
-			<POVName>lg_0968</POVName>
-			<POVName Alternate="Clear">lg_0968_clear</POVName>
+			<POVName>lg_968</POVName>
+			<POVName Alternate="Clear">lg_968_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0968.inc</POVFilename>
+			<POVFilename>lg_968.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>969.dat</LDrawFilename>
-			<POVName>lg_0969</POVName>
-			<POVName Alternate="Clear">lg_0969_clear</POVName>
+			<POVName>lg_969</POVName>
+			<POVName Alternate="Clear">lg_969_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0969.inc</POVFilename>
+			<POVFilename>lg_969.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>97.dat</LDrawFilename>
-			<POVName>lg_0097</POVName>
-			<POVName Alternate="Clear">lg_0097_clear</POVName>
+			<POVName>lg_97</POVName>
+			<POVName Alternate="Clear">lg_97_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0097.inc</POVFilename>
+			<POVFilename>lg_97.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>970.dat</LDrawFilename>
-			<POVName>lg_0970</POVName>
-			<POVName Alternate="Clear">lg_0970_clear</POVName>
+			<POVName>lg_970</POVName>
+			<POVName Alternate="Clear">lg_970_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0970.inc</POVFilename>
+			<POVFilename>lg_970.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>970c00.dat</LDrawFilename>
-			<POVName>lg_0970c00</POVName>
-			<POVName Alternate="Clear">lg_0970c00_clear</POVName>
+			<POVName>lg_970c00</POVName>
+			<POVName Alternate="Clear">lg_970c00_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0970c00.inc</POVFilename>
+			<POVFilename>lg_970c00.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>971.dat</LDrawFilename>
-			<POVName>lg_0971</POVName>
-			<POVName Alternate="Clear">lg_0971_clear</POVName>
+			<POVName>lg_971</POVName>
+			<POVName Alternate="Clear">lg_971_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0971.inc</POVFilename>
+			<POVFilename>lg_971.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>972.dat</LDrawFilename>
-			<POVName>lg_0972</POVName>
-			<POVName Alternate="Clear">lg_0972_clear</POVName>
+			<POVName>lg_972</POVName>
+			<POVName Alternate="Clear">lg_972_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0972.inc</POVFilename>
+			<POVFilename>lg_972.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973.dat</LDrawFilename>
-			<POVName>lg_0973</POVName>
-			<POVName Alternate="Clear">lg_0973_clear</POVName>
+			<POVName>lg_973</POVName>
+			<POVName Alternate="Clear">lg_973_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973.inc</POVFilename>
+			<POVFilename>lg_973.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p01.dat</LDrawFilename>
-			<POVName>lg_0973p01</POVName>
-			<POVName Alternate="Clear">lg_0973p01_clear</POVName>
+			<POVName>lg_973p01</POVName>
+			<POVName Alternate="Clear">lg_973p01_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p01.inc</POVFilename>
+			<POVFilename>lg_973p01.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p02.dat</LDrawFilename>
-			<POVName>lg_0973p02</POVName>
-			<POVName Alternate="Clear">lg_0973p02_clear</POVName>
+			<POVName>lg_973p02</POVName>
+			<POVName Alternate="Clear">lg_973p02_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p02.inc</POVFilename>
+			<POVFilename>lg_973p02.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p04.dat</LDrawFilename>
-			<POVName>lg_0973p04</POVName>
-			<POVName Alternate="Clear">lg_0973p04_clear</POVName>
+			<POVName>lg_973p04</POVName>
+			<POVName Alternate="Clear">lg_973p04_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p04.inc</POVFilename>
+			<POVFilename>lg_973p04.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p13.dat</LDrawFilename>
-			<POVName>lg_0973p13</POVName>
-			<POVName Alternate="Clear">lg_0973p13_clear</POVName>
+			<POVName>lg_973p13</POVName>
+			<POVName Alternate="Clear">lg_973p13_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p13.inc</POVFilename>
+			<POVFilename>lg_973p13.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p16.dat</LDrawFilename>
-			<POVName>lg_0973p16</POVName>
-			<POVName Alternate="Clear">lg_0973p16_clear</POVName>
+			<POVName>lg_973p16</POVName>
+			<POVName Alternate="Clear">lg_973p16_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p16.inc</POVFilename>
+			<POVFilename>lg_973p16.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1a.dat</LDrawFilename>
-			<POVName>lg_0973p1a</POVName>
-			<POVName Alternate="Clear">lg_0973p1a_clear</POVName>
+			<POVName>lg_973p1a</POVName>
+			<POVName Alternate="Clear">lg_973p1a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1a.inc</POVFilename>
+			<POVFilename>lg_973p1a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1b.dat</LDrawFilename>
-			<POVName>lg_0973p1b</POVName>
-			<POVName Alternate="Clear">lg_0973p1b_clear</POVName>
+			<POVName>lg_973p1b</POVName>
+			<POVName Alternate="Clear">lg_973p1b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1b.inc</POVFilename>
+			<POVFilename>lg_973p1b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1c.dat</LDrawFilename>
-			<POVName>lg_0973p1</POVName>
-			<POVName Alternate="Clear">lg_0973p1_clear</POVName>
+			<POVName>lg_973p1c</POVName>
+			<POVName Alternate="Clear">lg_973p1c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1c.inc</POVFilename>
+			<POVFilename>lg_973p1c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1j.dat</LDrawFilename>
-			<POVName>lg_0973p1j</POVName>
-			<POVName Alternate="Clear">lg_0973p1j_clear</POVName>
+			<POVName>lg_973p1j</POVName>
+			<POVName Alternate="Clear">lg_973p1j_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1j.inc</POVFilename>
+			<POVFilename>lg_973p1j.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1t.dat</LDrawFilename>
-			<POVName>lg_0973p1t</POVName>
-			<POVName Alternate="Clear">lg_0973p1t_clear</POVName>
+			<POVName>lg_973p1t</POVName>
+			<POVName Alternate="Clear">lg_973p1t_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1t.inc</POVFilename>
+			<POVFilename>lg_973p1t.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p1u.dat</LDrawFilename>
-			<POVName>lg_0973p1u</POVName>
-			<POVName Alternate="Clear">lg_0973p1u_clear</POVName>
+			<POVName>lg_973p1u</POVName>
+			<POVName Alternate="Clear">lg_973p1u_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p1u.inc</POVFilename>
+			<POVFilename>lg_973p1u.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p26.dat</LDrawFilename>
-			<POVName>lg_0973p26</POVName>
-			<POVName Alternate="Clear">lg_0973p26_clear</POVName>
+			<POVName>lg_973p26</POVName>
+			<POVName Alternate="Clear">lg_973p26_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p26.inc</POVFilename>
+			<POVFilename>lg_973p26.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p28.dat</LDrawFilename>
-			<POVName>lg_0973p28</POVName>
-			<POVName Alternate="Clear">lg_0973p28_clear</POVName>
+			<POVName>lg_973p28</POVName>
+			<POVName Alternate="Clear">lg_973p28_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p28.inc</POVFilename>
+			<POVFilename>lg_973p28.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p2d.dat</LDrawFilename>
-			<POVName>lg_0973p2d</POVName>
-			<POVName Alternate="Clear">lg_0973p2d_clear</POVName>
+			<POVName>lg_973p2d</POVName>
+			<POVName Alternate="Clear">lg_973p2d_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p2d.inc</POVFilename>
+			<POVFilename>lg_973p2d.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p2f.dat</LDrawFilename>
-			<POVName>lg_0973p2f</POVName>
-			<POVName Alternate="Clear">lg_0973p2f_clear</POVName>
+			<POVName>lg_973p2f</POVName>
+			<POVName Alternate="Clear">lg_973p2f_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p2f.inc</POVFilename>
+			<POVFilename>lg_973p2f.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p51.dat</LDrawFilename>
-			<POVName>lg_0973p51</POVName>
-			<POVName Alternate="Clear">lg_0973p51_clear</POVName>
+			<POVName>lg_973p51</POVName>
+			<POVName Alternate="Clear">lg_973p51_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p51.inc</POVFilename>
+			<POVFilename>lg_973p51.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p52.dat</LDrawFilename>
-			<POVName>lg_0973p52</POVName>
-			<POVName Alternate="Clear">lg_0973p52_clear</POVName>
+			<POVName>lg_973p52</POVName>
+			<POVName Alternate="Clear">lg_973p52_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p52.inc</POVFilename>
+			<POVFilename>lg_973p52.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p61.dat</LDrawFilename>
-			<POVName>lg_0973p61</POVName>
-			<POVName Alternate="Clear">lg_0973p61_clear</POVName>
+			<POVName>lg_973p61</POVName>
+			<POVName Alternate="Clear">lg_973p61_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p61.inc</POVFilename>
+			<POVFilename>lg_973p61.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p62.dat</LDrawFilename>
-			<POVName>lg_0973p62</POVName>
-			<POVName Alternate="Clear">lg_0973p62_clear</POVName>
+			<POVName>lg_973p62</POVName>
+			<POVName Alternate="Clear">lg_973p62_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p62.inc</POVFilename>
+			<POVFilename>lg_973p62.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p63.dat</LDrawFilename>
-			<POVName>lg_0973p63</POVName>
-			<POVName Alternate="Clear">lg_0973p63_clear</POVName>
+			<POVName>lg_973p63</POVName>
+			<POVName Alternate="Clear">lg_973p63_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p63.inc</POVFilename>
+			<POVFilename>lg_973p63.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p64.dat</LDrawFilename>
-			<POVName>lg_0973p64</POVName>
-			<POVName Alternate="Clear">lg_0973p64_clear</POVName>
+			<POVName>lg_973p64</POVName>
+			<POVName Alternate="Clear">lg_973p64_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p64.inc</POVFilename>
+			<POVFilename>lg_973p64.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p66.dat</LDrawFilename>
-			<POVName>lg_0973p66</POVName>
-			<POVName Alternate="Clear">lg_0973p66_clear</POVName>
+			<POVName>lg_973p66</POVName>
+			<POVName Alternate="Clear">lg_973p66_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p66.inc</POVFilename>
+			<POVFilename>lg_973p66.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p68.dat</LDrawFilename>
-			<POVName>lg_0973p68</POVName>
-			<POVName Alternate="Clear">lg_0973p68_clear</POVName>
+			<POVName>lg_973p68</POVName>
+			<POVName Alternate="Clear">lg_973p68_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p68.inc</POVFilename>
+			<POVFilename>lg_973p68.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p69.dat</LDrawFilename>
-			<POVName>lg_0973p69</POVName>
-			<POVName Alternate="Clear">lg_0973p69_clear</POVName>
+			<POVName>lg_973p69</POVName>
+			<POVName Alternate="Clear">lg_973p69_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p69.inc</POVFilename>
+			<POVFilename>lg_973p69.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p6a.dat</LDrawFilename>
-			<POVName>lg_0973p6a</POVName>
-			<POVName Alternate="Clear">lg_0973p6a_clear</POVName>
+			<POVName>lg_973p6a</POVName>
+			<POVName Alternate="Clear">lg_973p6a_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p6a.inc</POVFilename>
+			<POVFilename>lg_973p6a.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p6b.dat</LDrawFilename>
-			<POVName>lg_0973p6b</POVName>
-			<POVName Alternate="Clear">lg_0973p6b_clear</POVName>
+			<POVName>lg_973p6b</POVName>
+			<POVName Alternate="Clear">lg_973p6b_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p6b.inc</POVFilename>
+			<POVFilename>lg_973p6b.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p6c.dat</LDrawFilename>
-			<POVName>lg_0973p6</POVName>
-			<POVName Alternate="Clear">lg_0973p6_clear</POVName>
+			<POVName>lg_973p6c</POVName>
+			<POVName Alternate="Clear">lg_973p6c_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p6c.inc</POVFilename>
+			<POVFilename>lg_973p6c.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p6d.dat</LDrawFilename>
-			<POVName>lg_0973p6d</POVName>
-			<POVName Alternate="Clear">lg_0973p6d_clear</POVName>
+			<POVName>lg_973p6d</POVName>
+			<POVName Alternate="Clear">lg_973p6d_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p6d.inc</POVFilename>
+			<POVFilename>lg_973p6d.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p6e.dat</LDrawFilename>
-			<POVName>lg_0973p6e</POVName>
-			<POVName Alternate="Clear">lg_0973p6e_clear</POVName>
+			<POVName>lg_973p6e</POVName>
+			<POVName Alternate="Clear">lg_973p6e_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p6e.inc</POVFilename>
+			<POVFilename>lg_973p6e.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p70.dat</LDrawFilename>
-			<POVName>lg_0973p70</POVName>
-			<POVName Alternate="Clear">lg_0973p70_clear</POVName>
+			<POVName>lg_973p70</POVName>
+			<POVName Alternate="Clear">lg_973p70_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p70.inc</POVFilename>
+			<POVFilename>lg_973p70.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p73.dat</LDrawFilename>
-			<POVName>lg_0973p73</POVName>
-			<POVName Alternate="Clear">lg_0973p73_clear</POVName>
+			<POVName>lg_973p73</POVName>
+			<POVName Alternate="Clear">lg_973p73_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p73.inc</POVFilename>
+			<POVFilename>lg_973p73.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973p90.dat</LDrawFilename>
-			<POVName>lg_0973p90</POVName>
-			<POVName Alternate="Clear">lg_0973p90_clear</POVName>
+			<POVName>lg_973p90</POVName>
+			<POVName Alternate="Clear">lg_973p90_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973p90.inc</POVFilename>
+			<POVFilename>lg_973p90.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>973pst.dat</LDrawFilename>
-			<POVName>lg_0973pst</POVName>
-			<POVName Alternate="Clear">lg_0973pst_clear</POVName>
+			<POVName>lg_973pst</POVName>
+			<POVName Alternate="Clear">lg_973pst_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0973pst.inc</POVFilename>
+			<POVFilename>lg_973pst.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>975.dat</LDrawFilename>
-			<POVName>lg_0975</POVName>
-			<POVName Alternate="Clear">lg_0975_clear</POVName>
+			<POVName>lg_975</POVName>
+			<POVName Alternate="Clear">lg_975_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0975.inc</POVFilename>
+			<POVFilename>lg_975.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>976.dat</LDrawFilename>
-			<POVName>lg_0976</POVName>
-			<POVName Alternate="Clear">lg_0976_clear</POVName>
+			<POVName>lg_976</POVName>
+			<POVName Alternate="Clear">lg_976_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0976.inc</POVFilename>
+			<POVFilename>lg_976.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>977.dat</LDrawFilename>
-			<POVName>lg_0977</POVName>
-			<POVName Alternate="Clear">lg_0977_clear</POVName>
+			<POVName>lg_977</POVName>
+			<POVName Alternate="Clear">lg_977_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0977.inc</POVFilename>
+			<POVFilename>lg_977.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>98.dat</LDrawFilename>
-			<POVName>lg_0098</POVName>
-			<POVName Alternate="Clear">lg_0098_clear</POVName>
-			<Texture Alternate="Slope">lg_0098_slope</Texture>
+			<POVName>lg_98</POVName>
+			<POVName Alternate="Clear">lg_98_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0098.inc</POVFilename>
+			<POVFilename>lg_98.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>981.dat</LDrawFilename>
-			<POVName>lg_0981</POVName>
-			<POVName Alternate="Clear">lg_0981_clear</POVName>
+			<POVName>lg_981</POVName>
+			<POVName Alternate="Clear">lg_981_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0981.inc</POVFilename>
+			<POVFilename>lg_981.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -18995,10 +19099,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>982.dat</LDrawFilename>
-			<POVName>lg_0982</POVName>
-			<POVName Alternate="Clear">lg_0982_clear</POVName>
+			<POVName>lg_982</POVName>
+			<POVName Alternate="Clear">lg_982_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0982.inc</POVFilename>
+			<POVFilename>lg_982.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -19051,10 +19155,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>983.dat</LDrawFilename>
-			<POVName>lg_0983</POVName>
-			<POVName Alternate="Clear">lg_0983_clear</POVName>
+			<POVName>lg_983</POVName>
+			<POVName Alternate="Clear">lg_983_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0983.inc</POVFilename>
+			<POVFilename>lg_983.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -19067,19 +19171,18 @@
 		</Element>
 		<Element>
 			<LDrawFilename>989.dat</LDrawFilename>
-			<POVName>lg_0989</POVName>
-			<POVName Alternate="Clear">lg_0989_clear</POVName>
+			<POVName>lg_989</POVName>
+			<POVName Alternate="Clear">lg_989_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0989.inc</POVFilename>
+			<POVFilename>lg_989.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
 			<LDrawFilename>99.dat</LDrawFilename>
-			<POVName>lg_0099</POVName>
-			<POVName Alternate="Clear">lg_0099_clear</POVName>
-			<Texture Alternate="Slope">lg_0099_slope</Texture>
+			<POVName>lg_99</POVName>
+			<POVName Alternate="Clear">lg_99_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0099.inc</POVFilename>
+			<POVFilename>lg_99.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -19100,10 +19203,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>991.dat</LDrawFilename>
-			<POVName>lg_0991</POVName>
-			<POVName Alternate="Clear">lg_0991_clear</POVName>
+			<POVName>lg_991</POVName>
+			<POVName Alternate="Clear">lg_991_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0991.inc</POVFilename>
+			<POVFilename>lg_991.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
@@ -19132,10 +19235,10 @@
 		</Element>
 		<Element>
 			<LDrawFilename>993.dat</LDrawFilename>
-			<POVName>lg_0993</POVName>
-			<POVName Alternate="Clear">lg_0993_clear</POVName>
+			<POVName>lg_993</POVName>
+			<POVName Alternate="Clear">lg_993_clear</POVName>
 			<Dependency>LGDefs</Dependency>
-			<POVFilename>lg_0993.inc</POVFilename>
+			<POVFilename>lg_993.inc</POVFilename>
 			<MatrixRef>LGEOTransform</MatrixRef>
 		</Element>
 		<Element>
