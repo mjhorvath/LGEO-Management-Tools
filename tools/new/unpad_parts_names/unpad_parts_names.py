@@ -26,8 +26,8 @@ import re
 temp_string = ""
 
 # Need to make it so users can specify the old and new paths on the command line
-input_path_old = "D:/GitHub/LGEO-Management-Tools/tools/unpad_parts_names/old"
-input_path_new = "D:/GitHub/LGEO-Management-Tools/tools/unpad_parts_names/new"
+input_path_old = "D:/GitHub/LGEO-Management-Tools/tools/new/unpad_parts_names/old"
+input_path_new = "D:/GitHub/LGEO-Management-Tools/tools/new/unpad_parts_names/new"
 
 # Will fail if the filename is not lowercase.
 # Make sure to rename the actual files to lowercase too.
