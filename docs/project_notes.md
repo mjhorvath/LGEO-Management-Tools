@@ -1,5 +1,5 @@
 # NOTES
-* The files "LGEO.xml", "lg_colors.lst" and "lg_elements.lst" need to be updated after every addition made to the LGEO library.
+* The files "LGEO.xml", "lg_colors.lst" and "lg_elements.lst" need to be updated after every change made to the LGEO library.
 
 
 # LIBRARY MANAGEMENT
@@ -22,6 +22,7 @@
 * I should really keep track of file sizes and modification dates, too, if I want to better understand which files are the most current versus the oldest.
 * Be careful about the files "0901.dat", "0902.dat", "0903.dat" and "0904.dat". These files should have a zero at the front of their names that is not the result of any zero padding AFAIK.
 * I have not studied the filenames of Damien's STL parts in the "lgeo/stl" directory. There could be issues with them that I am unaware of.
+* The POV-Ray objects "lego_logo_text_tech" and "lego_logo_text_tech_clear" are missing from Darats' library. He must have a personal edited copy of "lg_defs.inc" in whcih this object resides.
 
 
 # PARTS COLORS
@@ -33,6 +34,7 @@
 * As of 2019/07/01, the latest version of the AIOI's "lg_color.inc" file is missing many colors, such as "color 495 - Electric_Contact_Copper" and "color 339 - Glitter_Trans_Neon_Green". This file needs to be updated to reflect the most current "LDConfig.ldr" file.
 * (fixed) As of 2019/07/01, in Damien's version of "LGEO.xml" color 406 "lg_rubber_dark_purple" should be renamed to "lg_rubber_dark_blue" (or vice versa, I'm not entirely sure).
 * It may not be possible to fix issues with "lg_colors.lst" without somehow breaking "L3P.exe", since this file was originally created for "L3P.exe" to use.
+* "trans_black_ir_lens" should be "lg_trans_black_ir_lens".
 
 
 # POVRAY MATERIALS
