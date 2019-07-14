@@ -22,5 +22,5 @@
 1. Update "lg_color.inc" and "lg_defs.inc" whenever you can.
 
 # PADDING
-1. In Lutz Uhlmann's original library of LGEO parts, some part names were padded with zeros for whatever reason. We have decided to no longer do this, in favor of having a 1:1 relationship between LDraw and LGEO parts names.
-1. The tools "pad_parts_names.py" and "unpad_parts_names.py" add and remove this zero padding from parts names, respectively.
+1. In Lutz Uhlmann's original library of LGEO parts, some part names were padded with zeros for whatever reason. We have decided to no longer do this in favor of having a 1:1 relationship between LDraw and LGEO parts names.
+1. The tools the "pad_parts_names.py" and "unpad_parts_names.py", when used in conjunction with the tool "fix_part_names.py", will add and remove this zero padding from part and object names, respectively.

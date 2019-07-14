@@ -22,7 +22,8 @@
 * I should really keep track of file sizes and modification dates, too, if I want to better understand which files are the most current versus the oldest.
 * Be careful about the files "0901.dat", "0902.dat", "0903.dat" and "0904.dat". These files should have a zero at the front of their names that is not the result of any zero padding AFAIK.
 * I have not studied the filenames of Damien's STL parts in the "lgeo/stl" directory. There could be issues with them that I am unaware of.
-* The POV-Ray objects "lego_logo_text_tech" and "lego_logo_text_tech_clear" are missing from Darats' library. He must have a personal edited copy of "lg_defs.inc" in whcih this object resides.
+* The POV-Ray objects "lego_logo_text", "lego_logo_text_tech" and "lego_logo_text_tech_clear" are missing from some parts in Darats' library. He must have a personal edited copy of "lg_defs.inc" in which these objects are defined.
+* In Lutz's library, there are typos in the files "lg_0309p03.inc" and "lg_0309p04.inc". The string "lg_0309" should be "lg_309.inc".
 
 
 # PARTS COLORS
