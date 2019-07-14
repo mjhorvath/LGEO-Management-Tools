@@ -9,15 +9,21 @@
 # 
 # ABOUT THIS SCRIPT:
 # The naming conventions of the LGEO library have been changed such that LGEO 
-# parts names should now match the original LDraw file, with the addition of 
+# parts names should now match the original LDraw files, with the addition of 
 # the "lg_" prefix and the ".inc" extension. Thus this script should no longer 
-# be used as a base for renaming parts. The script is kept here for historical 
-# reasons.
+# be used as a base for renaming parts. This script is kept here for historical 
+# reasons, or in case we change our minds about how filenames should be padded.
 # 
 # This script takes a list of INC files and pads certain file names with zeros, 
 # based on the conventions set by Lutz Uhlmann when he first created the LGEO 
 # library. The input file is named "filenames_old.txt". The output file is 
 # named "filenames_new.txt".
+# 
+# In Lutz Uhlmann's original LGEO library, files with between one and three 
+# zeros after the "lg_" string were padded with zeros until the the total 
+# number was four. For instance, if the LDraw part was named "1.dat", then the 
+# LGEO part was named "lg_0001.inc". If the LDraw part was named "10.dat", then 
+# the LGEO part was named "lg_0010.inc". And so on.
 
 import re 
 
