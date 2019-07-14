@@ -1,0 +1,2 @@
+These files need manual attention:
+* lg_122.inc	lg_0122c01.inc

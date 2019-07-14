@@ -7,23 +7,24 @@
 # You should have received a copy of the CC0 legalcode along with this
 # work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 # 
-# ABOUT THIS FILE:
+# ABOUT THIS SCRIPT:
 # The naming conventions of the LGEO library have been changed such that LGEO 
 # parts names should now match the original LDraw file, with the addition of 
 # the "lg_" prefix and the ".inc" extension. Thus this script should no longer 
-# be used. The script is kept here for historical reasons.
+# be used as a base for renaming parts. The script is kept here for historical 
+# reasons.
 # 
-# This script takes a list of DAT files and pads certain file names with zeros, 
-# then prefixes each file name with the string "lg_", and finally replaces the 
-# ".dat" extension with the ".inc" extension. The input file is named 
-# "filenames_dat.txt". The output file is named "filenames_inc.txt".
+# This script takes a list of INC files and pads certain file names with zeros, 
+# based on the conventions set by Lutz Uhlmann when he first created the LGEO 
+# library. The input file is named "filenames_old.txt". The output file is 
+# named "filenames_new.txt".
 
 import re 
 
-rx = "(\d*)(.*)(\.dat)"
+rx = "(lg_)(\d*)(.*)(\.inc)"
 output_text = ""
 
-f = open("filenames_dat.txt", "r")
+f = open("filenames_old.txt", "r")
 fl = f.readlines()
 f.close()
 
@@ -36,11 +37,12 @@ for in_line in fl:
 	match = re.match(rx, in_line)
 	group1 = match.group(1)
 	group2 = match.group(2)
-	if group1 != "":
-		group1 = pad(group1, 4, "0")
-	out_line = group1 + group2
-	output_text += "lg_" + out_line + ".inc\n"
+	group3 = match.group(3)
+	group4 = match.group(4)
+	if group2 != "":
+		group2 = pad(group2, 4, "0")
+	output_text += group1 + group2 + group3 + group4 + "\n"
 
-f = open("filenames_inc.txt", "w")
+f = open("filenames_new.txt", "w")
 f.write(output_text)
 f.close()
